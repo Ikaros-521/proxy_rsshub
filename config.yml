@@ -7,6 +7,8 @@ instances:
 - https://rsshub.app/
 routes:
 - title: 沉冰浮水 的追番列表
+  path: twitter/user/love_ikaros1314
+- title: 沉冰浮水 的追番列表
   path: bilibili/user/bangumi/44744006
 - title: ocarina 的 bilibili 空间
   path: bilibili/user/video/1397229
