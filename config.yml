@@ -16,4 +16,12 @@ routes:
   path: twitter/user/amaririsu_ch
 - title: Age动漫 最近更新
   path: agefans/update
+- title: 猫音すず ytb频道
+  path: youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg
+- title: 魔法幼女えう ytb频道
+  path: youtube/channel/UCIm7s5zSSoTIDbtxrG2CvQA
+- title: ひょがよめ🦘Hyogayome ytb频道
+  path: youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ
+- title: 黑男邱比特 ytb频道
+  path: youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA
 # baseUrl: https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main # The Base Url Of xml folder
