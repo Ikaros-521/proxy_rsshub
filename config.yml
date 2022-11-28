@@ -13,7 +13,7 @@ routes:
 - title: 羽月的 推特
   path: twitter/user/chii_nemui
 - title: 莉莉丝的 推特
-  path: twitter/user/amarorosi_ch
+  path: twitter/user/amaririsu_ch
 - title: Age动漫 最近更新
   path: agefans/update
 # baseUrl: https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main # The Base Url Of xml folder
