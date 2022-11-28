@@ -14,7 +14,7 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-11-28 17:15:31
+2022-11-28 17:27:36
 
 title: 我的推特
 
@@ -30,7 +30,7 @@ path: [twitter/user/chii_nemui](xml/twitter_user_chii_nemui.xml "羽月的 推�
 
 title: 莉莉丝的 推特
 
-path: [twitter/user/amarorosi_ch](xml/twitter_user_amarorosi_ch.xml "莉莉丝的 推特") 「[raw](xml/twitter_user_amarorosi_ch.xml?raw=true "莉莉丝的 推特")」
+path: [twitter/user/amaririsu_ch](xml/twitter_user_amaririsu_ch.xml "莉莉丝的 推特") 「[raw](xml/twitter_user_amaririsu_ch.xml?raw=true "莉莉丝的 推特")」
 
 title: Age动漫 最近更新
 
