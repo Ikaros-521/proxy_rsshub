@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Twitter @Ikaros]]></title>
+        <link>https://twitter.com/love_ikaros1314</link>
+        <atom:link href="https://rsshub/twitter/user/love_ikaros1314" rel="self" type="application/rss+xml" />
+        <description><![CDATA[万事皆有可能 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <image>
+            <url>https://pbs.twimg.com/profile_images/1522189927714222081/D7-262Nm.jpg</url>
+            <title><![CDATA[Twitter @Ikaros]]></title>
+            <link>https://twitter.com/love_ikaros1314</link>
+        </image>
+        
+        <lastBuildDate>Mon, 28 Nov 2022 08:17:02 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Re @maoshu11 イケメン]]></title>
+            <description><![CDATA[Re @maoshu11 イケメン]]></description>
+            <pubDate>Thu, 25 Aug 2022 12:21:26 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/love_ikaros1314/status/1562777169289392128</guid>
+            <link>https://twitter.com/love_ikaros1314/status/1562777169289392128</link>
+            
+            
+            
+            <author><![CDATA[Ikaros]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>

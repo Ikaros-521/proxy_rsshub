@@ -14,7 +14,11 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-11-25 08:24:35
+2022-11-28 16:17:00
+
+title: 沉冰浮水 的追番列表
+
+path: [twitter/user/love_ikaros1314](xml/twitter_user_love_ikaros1314.xml "沉冰浮水 的追番列表") 「[raw](xml/twitter_user_love_ikaros1314.xml?raw=true "沉冰浮水 的追番列表")」
 
 title: 沉冰浮水 的追番列表
 
