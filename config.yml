@@ -10,6 +10,8 @@ routes:
   path: twitter/user/love_ikaros1314
 - title: 大酱的 推特
   path: twitter/user/shizuku_mayoi
+- title: 羽月的 推特
+  path: twitter/user/chii_nemui
 - title: Age动漫 最近更新
   path: agefans/update
 # baseUrl: https://raw.githubusercontent.com/wdssmq/proxy_rsshub/main # The Base Url Of xml folder
