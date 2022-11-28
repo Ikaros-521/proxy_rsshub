@@ -14,7 +14,7 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-11-28 20:57:37
+2022-11-28 21:14:04
 
 title: 我的推特
 
@@ -35,6 +35,22 @@ path: [twitter/user/amaririsu_ch](xml/twitter_user_amaririsu_ch.xml "莉莉丝�
 title: Age动漫 最近更新
 
 path: [agefans/update](xml/agefans_update.xml "Age动漫 最近更新") 「[raw](xml/agefans_update.xml?raw=true "Age动漫 最近更新")」
+
+title: 猫音すず ytb频道
+
+path: [youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg](xml/youtube_channel_UCpEESTSpGHDgKTDJfS57Zkg.xml "猫音すず ytb频道") 「[raw](xml/youtube_channel_UCpEESTSpGHDgKTDJfS57Zkg.xml?raw=true "猫音すず ytb频道")」
+
+title: 魔法幼女えう ytb频道
+
+path: [youtube/channel/UCIm7s5zSSoTIDbtxrG2CvQA](xml/youtube_channel_UCIm7s5zSSoTIDbtxrG2CvQA.xml "魔法幼女えう ytb频道") 「[raw](xml/youtube_channel_UCIm7s5zSSoTIDbtxrG2CvQA.xml?raw=true "魔法幼女えう ytb频道")」
+
+title: ひょがよめ🦘Hyogayome ytb频道
+
+path: [youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ](xml/youtube_channel_UC_ulAd_3TQIlLRAo5zNhnoQ.xml "ひょがよめ🦘Hyogayome ytb频道") 「[raw](xml/youtube_channel_UC_ulAd_3TQIlLRAo5zNhnoQ.xml?raw=true "ひょがよめ🦘Hyogayome ytb频道")」
+
+title: 黑男邱比特 ytb频道
+
+path: [youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA](xml/youtube_channel_UC4GZ1dNQKWWFDQ4IWl4DezA.xml "黑男邱比特 ytb频道") 「[raw](xml/youtube_channel_UC4GZ1dNQKWWFDQ4IWl4DezA.xml?raw=true "黑男邱比特 ytb频道")」
 
 
 ---end---
