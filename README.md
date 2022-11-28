@@ -14,11 +14,15 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2022-11-28 16:31:24
+2022-11-28 16:39:59
 
 title: 我的推特
 
 path: [twitter/user/love_ikaros1314](xml/twitter_user_love_ikaros1314.xml "我的推特") 「[raw](xml/twitter_user_love_ikaros1314.xml?raw=true "我的推特")」
+
+title: 大酱的 推特
+
+path: [twitter/user/shizuku_mayoi](xml/twitter_user_shizuku_mayoi.xml "大酱的 推特") 「[raw](xml/twitter_user_shizuku_mayoi.xml?raw=true "大酱的 推特")」
 
 title: Age动漫 最近更新
 
