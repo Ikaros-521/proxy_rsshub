@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://pbs.twimg.com/profile_images/1584821918653632512/f7-M43fk.jpg</url>
+            <url>http://pbs.twimg.com/profile_images/1584821918653632512/f7-M43fk_normal.jpg</url>
             <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Wed, 30 Nov 2022 07:35:53 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 30 Nov 2022 07:40:55 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[RT 澪音奏@🍸0verf1ow🎤: ビリビリで仲良くなった友達と たこ焼きサバイバルパーチーをしました。 カロリーを消費しました‼️ たのちかったぁ~~~♡♡♡]]></title>
