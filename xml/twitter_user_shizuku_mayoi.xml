@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @間宵 雫☾☔@イラストレーターVtuber]]></title>
         <link>https://twitter.com/shizuku_mayoi</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/shizuku_mayoi" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/shizuku_mayoi" rel="self" type="application/rss+xml" />
         <description><![CDATA[セルフ受肉Vtuberの間宵 雫(まよい しずく)です！
 食べる/寝る/LoL/ゲーム/イラスト
 
@@ -25,13 +25,13 @@ Vtuber制作：https://t.co/P34hr6gt0Y
         <language>zh-cn</language>
         
         <image>
-            <url>https://pbs.twimg.com/profile_images/1377642309479587846/RnGxWmiZ.jpg</url>
+            <url>http://pbs.twimg.com/profile_images/1377642309479587846/RnGxWmiZ_normal.jpg</url>
             <title><![CDATA[Twitter @間宵 雫☾☔@イラストレーターVtuber]]></title>
             <link>https://twitter.com/shizuku_mayoi</link>
         </image>
         
-        <lastBuildDate>Wed, 30 Nov 2022 23:53:50 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 01 Dec 2022 00:00:50 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[んご]]></title>
