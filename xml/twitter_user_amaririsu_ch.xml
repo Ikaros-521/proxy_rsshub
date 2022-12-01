@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Thu, 01 Dec 2022 08:45:52 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 01 Dec 2022 08:52:55 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[寒すぎてホッカイロ買った]]></title>
@@ -286,6 +286,22 @@
             <pubDate>Wed, 23 Nov 2022 21:20:09 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1595527648704630784</guid>
             <link>https://twitter.com/amaririsu_ch/status/1595527648704630784</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[違うそうじゃない]]></title>
+            <description><![CDATA[違うそうじゃない<br><img style="" src="https://pbs.twimg.com/media/FiPqkqracAA5lB7?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Wed, 23 Nov 2022 11:20:02 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1595376623171547136</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1595376623171547136</link>
             
             
             
