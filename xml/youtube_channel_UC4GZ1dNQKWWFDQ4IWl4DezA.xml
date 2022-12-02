@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[黑男邱比特 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC4GZ1dNQKWWFDQ4IWl4DezA</link>
-        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 黑男邱比特 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 01 Dec 2022 23:53:58 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 02 Dec 2022 00:00:23 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[(5K)360環景拍攝請自行滑動畫面｜台北市50元便當｜VR360｜$50 cheap boxed meal｜대만 저가 도시락｜makanan kotak murah taiwan｜]]></title>
