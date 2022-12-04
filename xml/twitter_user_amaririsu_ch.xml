@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Sun, 04 Dec 2022 11:48:56 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 04 Dec 2022 11:55:55 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[さむぃ…………ねむぃ……………用事あるから布団出る……………]]></title>
@@ -302,6 +302,22 @@
             <pubDate>Tue, 29 Nov 2022 16:12:16 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/MionKanade/status/1597624494562369536</guid>
             <link>https://twitter.com/MionKanade/status/1597624494562369536</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[RT グチくん: 飛べる！踊れる！エアリアル！！！！！ #水星の魔女]]></title>
+            <description><![CDATA[RT グチくん<br>飛べる！踊れる！エアリアル！！！！！<br>#水星の魔女<br><img style="" src="https://pbs.twimg.com/media/Fis0egUaYAEqAAp?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <pubDate>Tue, 29 Nov 2022 03:12:15 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/ma_koro1004/status/1597428198324994048</guid>
+            <link>https://twitter.com/ma_koro1004/status/1597428198324994048</link>
             
             
             
