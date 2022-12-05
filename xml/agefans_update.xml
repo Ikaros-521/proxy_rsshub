@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 05 Dec 2022 17:44:19 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 05 Dec 2022 17:47:15 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[死神 千年血战篇]]></title>
@@ -557,7 +557,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220516#第01集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220516#第01话</guid>
             <link>https://www.agemys.cc/detail/20220516</link>
             
             
@@ -1219,7 +1219,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220515#第01集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220515#第01话</guid>
             <link>https://www.agemys.cc/detail/20220515</link>
             
             
