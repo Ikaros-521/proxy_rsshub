@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @ゅゅぇ]]></title>
         <link>https://twitter.com/chii_nemui</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
         <description><![CDATA[Twitter @ゅゅぇ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://twitter.com/chii_nemui</link>
         </image>
         
-        <lastBuildDate>Sat, 10 Dec 2022 07:42:52 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 10 Dec 2022 07:49:44 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Re @nekoha346 没有比这更可爱的了💔]]></title>
+            <description><![CDATA[Re @nekoha346 没有比这更可爱的了💔]]></description>
+            <pubDate>Sat, 10 Dec 2022 07:45:28 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1601483219521925121</guid>
+            <link>https://twitter.com/chii_nemui/status/1601483219521925121</link>
+            
+            
+            
+            <author><![CDATA[ゅゅぇ]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re @ailan125 现在我什么都没涂🥺]]></title>
@@ -318,22 +334,6 @@
             <pubDate>Mon, 28 Nov 2022 04:33:25 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1597086235646128128</guid>
             <link>https://twitter.com/chii_nemui/status/1597086235646128128</link>
-            
-            
-            
-            <author><![CDATA[ゅゅぇ]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最近よく人生について考えているんだけど、まわりの友だちが結婚出産していくなかで、わたしだけずっとapexしてるの恐ろしすぎるから、できるだけ自炊とか掃除と...]]></title>
-            <description><![CDATA[最近よく人生について考えているんだけど、まわりの友だちが結婚出産していくなかで、わたしだけずっとapexしてるの恐ろしすぎるから、できるだけ自炊とか掃除とか散歩とかして現実寄りの生活になるようにがんばっている😿結婚したらwechatでご祝儀ください🧧]]></description>
-            <pubDate>Mon, 28 Nov 2022 03:25:07 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1597069048063619075</guid>
-            <link>https://twitter.com/chii_nemui/status/1597069048063619075</link>
             
             
             
