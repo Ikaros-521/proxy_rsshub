@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @ゅゅぇ]]></title>
         <link>https://twitter.com/chii_nemui</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
         <description><![CDATA[Twitter @ゅゅぇ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://twitter.com/chii_nemui</link>
         </image>
         
-        <lastBuildDate>Sat, 10 Dec 2022 08:11:59 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 10 Dec 2022 08:30:39 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Re @nekoha346 去的比较贵，那就邮购吧😾👊🏻]]></title>
+            <description><![CDATA[Re @nekoha346 去的比较贵，那就邮购吧😾👊🏻]]></description>
+            <pubDate>Sat, 10 Dec 2022 08:13:22 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1601490240954597376</guid>
+            <link>https://twitter.com/chii_nemui/status/1601490240954597376</link>
+            
+            
+            
+            <author><![CDATA[ゅゅぇ]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Re @nekoha346 没有比这更可爱的了💔]]></title>
@@ -318,22 +334,6 @@
             <pubDate>Mon, 28 Nov 2022 04:36:33 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1597087023105736705</guid>
             <link>https://twitter.com/chii_nemui/status/1597087023105736705</link>
-            
-            
-            
-            <author><![CDATA[ゅゅぇ]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re @fanglei613 dd结婚后能单推吗]]></title>
-            <description><![CDATA[Re @fanglei613 dd结婚后能单推吗]]></description>
-            <pubDate>Mon, 28 Nov 2022 04:33:25 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1597086235646128128</guid>
-            <link>https://twitter.com/chii_nemui/status/1597086235646128128</link>
             
             
             
