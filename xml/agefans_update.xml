@@ -15,8 +15,111 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 17 Dec 2022 17:29:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 17:36:54 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[令和的Di Gi Charat]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/008v6dp8gy1h6eiqn80nfj307409wdgi.jpg" alt="令和的Di Gi Charat">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">令和のデ・ジ・キャラット</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">令和的铃铛猫娘</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">こげどんぼ**</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">LIDENFILMS</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2022-10-07</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">奇幻 治愈 百合</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">奇幻 治愈 百合</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://digicharat-reiwa.com/anime</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220200#第11集</guid>
+            <link>https://www.agemys.cc/detail/20220200</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[圣剑传说 玛娜传奇 -泪珠水晶-]]></title>
@@ -630,121 +733,6 @@
         </item>
         
         <item>
-            <title><![CDATA[游戏王GO RUSH!!]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/008kBpBlgy1h0ymst3gngj307409wjs8.jpg" alt="游戏王GO RUSH!!">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">遊☆戯☆王ゴーラッシュ!!</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">Yu☆Gi☆Oh! Go Rush!!</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">暂无</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">Bridge</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2022-04-03</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">奇幻 热血 竞技</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">奇幻 热血 竞技</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://www.tv-tokyo.co.jp/anime/yugioh-gorush</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200186">游戏王SEVENS</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20170174">游戏王VRAINS</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20110096">游戏王ZEXAL</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220246#第37集</guid>
-            <link>https://www.agemys.cc/detail/20220246</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[点满农民相关技能后，不知为何就变强了。]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -951,10 +939,10 @@
         </item>
         
         <item>
-            <title><![CDATA[宇崎酱想要玩耍！ 第二季]]></title>
+            <title><![CDATA[游戏王GO RUSH!!]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/9a6d8579gy1h5x8caqtocj207409wjrx.jpg" alt="宇崎酱想要玩耍！ 第二季">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/008kBpBlgy1h0ymst3gngj307409wjs8.jpg" alt="游戏王GO RUSH!!">
               
               <!-- 收藏 -->
               <style>
@@ -999,31 +987,31 @@
                 <span class="detail_imform_value">TV</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">宇崎ちゃんは遊びたい!2</span></li>
+                <span class="detail_imform_value">遊☆戯☆王ゴーラッシュ!!</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">宇崎学妹想要玩！第二季</span></li>
+                <span class="detail_imform_value">Yu☆Gi☆Oh! Go Rush!!</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">丈</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">ENGI</span></li>
+                <span class="detail_imform_value">Bridge</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2022-10-01</span></li>
+                <span class="detail_imform_value">2022-04-03</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
                 <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">搞笑 校园 爱情 治愈</span></li>
+                <span class="detail_imform_value">奇幻 热血 竞技</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">搞笑 校园 爱情 治愈</span></li>
+                <span class="detail_imform_value">奇幻 热血 竞技</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://uzakichan.com/</span></li>
+                <span class="detail_imform_value">https://www.tv-tokyo.co.jp/anime/yugioh-gorush</span></li>
         </ul>
     </div>
 
@@ -1036,7 +1024,15 @@
                 <ul class="blockcontent">
                   
         <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200159">宇崎酱想要玩耍！</a>
+            <a href="https://www.agemys.cc/detail/20200186">游戏王SEVENS</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20170174">游戏王VRAINS</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20110096">游戏王ZEXAL</a>
         </li>
         
                 </ul>
@@ -1045,8 +1041,8 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20210014#22:00 第12集</guid>
-            <link>https://www.agemys.cc/detail/20210014</link>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220246#第37集</guid>
+            <link>https://www.agemys.cc/detail/20220246</link>
             
             
             
@@ -1161,10 +1157,10 @@
         </item>
         
         <item>
-            <title><![CDATA[后宫之乌]]></title>
+            <title><![CDATA[宇崎酱想要玩耍！ 第二季]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/9a6d8579gy1h5drbxvfzgj207409wq3l.jpg" alt="后宫之乌">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/9a6d8579gy1h5x8caqtocj207409wjrx.jpg" alt="宇崎酱想要玩耍！ 第二季">
               
               <!-- 收藏 -->
               <style>
@@ -1209,16 +1205,16 @@
                 <span class="detail_imform_value">TV</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">後宮の烏</span></li>
+                <span class="detail_imform_value">宇崎ちゃんは遊びたい!2</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">暂无</span></li>
+                <span class="detail_imform_value">宇崎学妹想要玩！第二季</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">白川紺子</span></li>
+                <span class="detail_imform_value">丈</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">BN Pictures</span></li>
+                <span class="detail_imform_value">ENGI</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
                 <span class="detail_imform_value">2022-10-01</span></li>
@@ -1227,13 +1223,13 @@
                 <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">历史 后宫 奇幻</span></li>
+                <span class="detail_imform_value">搞笑 校园 爱情 治愈</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">历史 后宫 奇幻</span></li>
+                <span class="detail_imform_value">搞笑 校园 爱情 治愈</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://kokyu-anime.com/</span></li>
+                <span class="detail_imform_value">https://uzakichan.com/</span></li>
         </ul>
     </div>
 
@@ -1245,14 +1241,18 @@
                 <div class="blocktitle detail_title1">相关动画：</div>
                 <ul class="blockcontent">
                   
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20200159">宇崎酱想要玩耍！</a>
+        </li>
+        
                 </ul>
               </div>
             </div>
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220119#00:00 第12集</guid>
-            <link>https://www.agemys.cc/detail/20220119</link>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20210014#22:00 第12集</guid>
+            <link>https://www.agemys.cc/detail/20210014</link>
             
             
             
@@ -1360,6 +1360,109 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20220436#23:00 第12集</guid>
             <link>https://www.agemys.cc/detail/20220436</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[后宫之乌]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/9a6d8579gy1h5drbxvfzgj207409wq3l.jpg" alt="后宫之乌">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">後宮の烏</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">暂无</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">白川紺子</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">BN Pictures</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2022-10-01</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">历史 后宫 奇幻</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">历史 后宫 奇幻</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://kokyu-anime.com/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220119#00:00 第12集</guid>
+            <link>https://www.agemys.cc/detail/20220119</link>
             
             
             
@@ -1811,10 +1914,10 @@
         </item>
         
         <item>
-            <title><![CDATA[明日方舟 黎明前奏]]></title>
+            <title><![CDATA[pop子和pipi美的日常 第二季]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/008kBpBlgy1h4ru5s0y1hj305i07nwem.jpg" alt="明日方舟 黎明前奏">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220249.jpg" alt="pop子和pipi美的日常 第二季">
               
               <!-- 收藏 -->
               <style>
@@ -1859,31 +1962,31 @@
                 <span class="detail_imform_value">TV</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">アークナイツ -明日方舟- シーズン01 黎明前奏</span></li>
+                <span class="detail_imform_value">ポプテピピック 第二シリーズ</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">暂缺</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">Hypergryph / Studio Montagne</span></li>
+                <span class="detail_imform_value">大川ぶくぶ</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">Yostar Pictures</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
                 <span class="detail_imform_value">2022-10</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">完结</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">科幻 游戏</span></li>
+                <span class="detail_imform_value">搞笑 日常</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">科幻 游戏</span></li>
+                <span class="detail_imform_value">搞笑 日常</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://arknights-anime.jp</span></li>
+                <span class="detail_imform_value">http://hoshiiro.jp</span></li>
         </ul>
     </div>
 
@@ -1895,14 +1998,18 @@
                 <div class="blocktitle detail_title1">相关动画：</div>
                 <ul class="blockcontent">
                   
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20180006">pop子和pipi美的日常</a>
+        </li>
+        
                 </ul>
               </div>
             </div>
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220414#第8集</guid>
-            <link>https://www.agemys.cc/detail/20220414</link>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220249#第12集(完结)</guid>
+            <link>https://www.agemys.cc/detail/20220249</link>
             
             
             
@@ -2021,10 +2128,10 @@
         </item>
         
         <item>
-            <title><![CDATA[令和的Di Gi Charat]]></title>
+            <title><![CDATA[明日方舟 黎明前奏]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/008v6dp8gy1h6eiqn80nfj307409wdgi.jpg" alt="令和的Di Gi Charat">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/008kBpBlgy1h4ru5s0y1hj305i07nwem.jpg" alt="明日方舟 黎明前奏">
               
               <!-- 收藏 -->
               <style>
@@ -2069,31 +2176,31 @@
                 <span class="detail_imform_value">TV</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">令和のデ・ジ・キャラット</span></li>
+                <span class="detail_imform_value">アークナイツ -明日方舟- シーズン01 黎明前奏</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">令和的铃铛猫娘</span></li>
+                <span class="detail_imform_value">暂缺</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">こげどんぼ**</span></li>
+                <span class="detail_imform_value">Hypergryph / Studio Montagne</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">LIDENFILMS</span></li>
+                <span class="detail_imform_value">Yostar Pictures</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2022-10-07</span></li>
+                <span class="detail_imform_value">2022-10</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
                 <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">奇幻 治愈 百合</span></li>
+                <span class="detail_imform_value">科幻 游戏</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">奇幻 治愈 百合</span></li>
+                <span class="detail_imform_value">科幻 游戏</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://digicharat-reiwa.com/anime</span></li>
+                <span class="detail_imform_value">https://arknights-anime.jp</span></li>
         </ul>
     </div>
 
@@ -2111,8 +2218,8 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220200#第11集</guid>
-            <link>https://www.agemys.cc/detail/20220200</link>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220414#第8集</guid>
+            <link>https://www.agemys.cc/detail/20220414</link>
             
             
             
@@ -2545,109 +2652,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20220300#第10集</guid>
             <link>https://www.agemys.cc/detail/20220300</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[秋叶原女仆战争]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://tvax3.sinaimg.cn/large/9a6d8579gy1h5lfqm27s7j207409w3zb.jpg" alt="秋叶原女仆战争">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">アキバ冥途戦争</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">秋叶原冥途战争</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">ケダモノランド経営戦略室</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">P.A.WORKS</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2022-10-06</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">奇幻 百合</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">奇幻 百合</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://akibamaidwar.com/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220356#23:00 第11集</guid>
-            <link>https://www.agemys.cc/detail/20220356</link>
             
             
             
