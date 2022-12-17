@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Sat, 17 Dec 2022 07:30:42 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 17 Dec 2022 07:37:20 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[調子悪いなって思ったら魔力が乱れるシーズンでした]]></title>
@@ -318,22 +318,6 @@
             <pubDate>Thu, 08 Dec 2022 06:16:42 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1600736104269086722</guid>
             <link>https://twitter.com/amaririsu_ch/status/1600736104269086722</link>
-            
-            
-            
-            <author><![CDATA[アマリリスちゃんねーる]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re @wxzy_xyc ふぁ？！？！！！！ スクショありがとう！！！]]></title>
-            <description><![CDATA[Re @wxzy_xyc ふぁ？！？！！！！<br>スクショありがとう！！！]]></description>
-            <pubDate>Tue, 06 Dec 2022 07:29:58 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1600029768405389312</guid>
-            <link>https://twitter.com/amaririsu_ch/status/1600029768405389312</link>
             
             
             
