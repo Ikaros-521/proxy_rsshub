@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[ひょがよめ🦘Hyogayome💜 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC_ulAd_3TQIlLRAo5zNhnoQ</link>
-        <atom:link href="https://rsshub.app/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel ひょがよめ🦘Hyogayome💜 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 19 Dec 2022 04:01:00 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Mon, 19 Dec 2022 04:56:40 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【Collab Stream】💓Traducción de títulos J∀V al español💓日本のアニマルビデオのタイトルをスペイン語に訳します💓【JP/EN/ES】]]></title>
