@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Wed, 21 Dec 2022 23:41:13 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 21 Dec 2022 23:47:55 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[今日おやすむ……]]></title>
@@ -318,22 +318,6 @@
             <pubDate>Thu, 08 Dec 2022 11:37:30 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1600816838715531265</guid>
             <link>https://twitter.com/amaririsu_ch/status/1600816838715531265</link>
-            
-            
-            
-            <author><![CDATA[アマリリスちゃんねーる]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re @Leung08163068 ありがとう〜！]]></title>
-            <description><![CDATA[Re @Leung08163068 ありがとう〜！]]></description>
-            <pubDate>Thu, 08 Dec 2022 11:36:49 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1600816664622551040</guid>
-            <link>https://twitter.com/amaririsu_ch/status/1600816664622551040</link>
             
             
             
