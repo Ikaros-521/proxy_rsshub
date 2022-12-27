@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,24 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Tue, 27 Dec 2022 07:30:33 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 27 Dec 2022 07:37:36 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[新しい仕事の方からもポチポチ連絡来るようになってキャパシティがどっかんちょ(૭ ᐕ)૭]]></title>
+            <description><![CDATA[新しい仕事の方からもポチポチ連絡来るようになってキャパシティがどっかんちょ(૭ ᐕ)૭]]></description>
+            <pubDate>Tue, 27 Dec 2022 07:33:47 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1607640872723841024</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1607640872723841024</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[🔔*ω*♡Merry🎄X'mas💕♪☆]]></title>
