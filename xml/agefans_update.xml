@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 28 Dec 2022 09:31:48 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 28 Dec 2022 09:43:08 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[传颂之物 二人的白皇]]></title>
@@ -125,7 +125,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220101#00:30 第28集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220101#第28集(完结)</guid>
             <link>https://www.agemys.cc/detail/20220101</link>
             
             
@@ -660,7 +660,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20210251#00:00 第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20210251#第12集(完结)</guid>
             <link>https://www.agemys.cc/detail/20210251</link>
             
             
@@ -763,7 +763,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220060#23:30 第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220060#第12集(完结)</guid>
             <link>https://www.agemys.cc/detail/20220060</link>
             
             
@@ -882,7 +882,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220066#00:00 第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220066#第12集(完结)</guid>
             <link>https://www.agemys.cc/detail/20220066</link>
             
             
@@ -985,7 +985,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220222#00:00 第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220222#第12集(完结)</guid>
             <link>https://www.agemys.cc/detail/20220222</link>
             
             
@@ -1088,7 +1088,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220356#23:00 第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220356#第12集(完结)</guid>
             <link>https://www.agemys.cc/detail/20220356</link>
             
             
@@ -2055,7 +2055,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220042#21:00 第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220042#第12集(完结)</guid>
             <link>https://www.agemys.cc/detail/20220042</link>
             
             
