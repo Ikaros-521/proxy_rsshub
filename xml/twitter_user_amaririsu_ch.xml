@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Thu, 05 Jan 2023 02:58:22 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 05 Jan 2023 03:13:15 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[あけおめ]]></title>
@@ -318,22 +318,6 @@
             <pubDate>Wed, 14 Dec 2022 06:08:14 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1602908300261359616</guid>
             <link>https://twitter.com/amaririsu_ch/status/1602908300261359616</link>
-            
-            
-            
-            <author><![CDATA[アマリリスちゃんねーる]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[眠い]]></title>
-            <description><![CDATA[眠い]]></description>
-            <pubDate>Tue, 13 Dec 2022 23:25:50 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1602807033790881792</guid>
-            <link>https://twitter.com/amaririsu_ch/status/1602807033790881792</link>
             
             
             
