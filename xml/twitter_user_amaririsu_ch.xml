@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Thu, 19 Jan 2023 19:53:16 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 19 Jan 2023 20:00:19 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Re @toudoupino 僕もーー！！！ ｽｷ(*ˊ͈ - ˋ͈*❤︎*ˊ͈ - ˋ͈*)ｽｷ]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Sat, 17 Dec 2022 12:26:08 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1604090567545466880</guid>
             <link>https://twitter.com/amaririsu_ch/status/1604090567545466880</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[お布団暖かい……]]></title>
+            <description><![CDATA[お布団暖かい……]]></description>
+            <pubDate>Sat, 17 Dec 2022 10:43:33 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1604064752271228928</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1604064752271228928</link>
             
             
             
