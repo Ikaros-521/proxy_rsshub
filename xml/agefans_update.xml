@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 29 Jan 2023 07:37:22 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 29 Jan 2023 07:44:07 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[名侦探柯南]]></title>
@@ -2215,10 +2215,6 @@
         </li>
         
         <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20230051">假面骑士Outsiders</a>
-        </li>
-        
-        <li class="relates_series">
             <a href="https://www.agemys.cc/detail/20210342">假面骑士Revice</a>
         </li>
         
@@ -2474,7 +2470,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230052#第5集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230052#第05话</guid>
             <link>https://www.agemys.cc/detail/20230052</link>
             
             
@@ -2617,7 +2613,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230051#第2集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230051#第01话(完结)</guid>
             <link>https://www.agemys.cc/detail/20230051</link>
             
             
