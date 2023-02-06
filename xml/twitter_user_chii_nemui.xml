@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @ゅゅぇ]]></title>
         <link>https://twitter.com/chii_nemui</link>
-        <atom:link href="https://rsshub/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
         <description><![CDATA[Twitter @ゅゅぇ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/chii_nemui</link>
         </image>
         
-        <lastBuildDate>Mon, 06 Feb 2023 11:46:32 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 06 Feb 2023 11:53:28 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[房屋 #マシュマロを投げ合おう]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Mon, 16 Jan 2023 07:14:23 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1614883749149413377</guid>
             <link>https://twitter.com/chii_nemui/status/1614883749149413377</link>
+            
+            
+            
+            <author><![CDATA[ゅゅぇ]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @Asaritsu06 よかった (ˆ꜆ . ̫ . ).ᐟ.ᐟ あそぼ〜🎵]]></title>
+            <description><![CDATA[Re @Asaritsu06 よかった (ˆ꜆ . ̫ . ).ᐟ.ᐟ あそぼ〜🎵]]></description>
+            <pubDate>Mon, 16 Jan 2023 04:31:06 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1614842656064180225</guid>
+            <link>https://twitter.com/chii_nemui/status/1614842656064180225</link>
             
             
             
