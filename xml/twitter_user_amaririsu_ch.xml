@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Tue, 07 Feb 2023 15:52:16 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 07 Feb 2023 15:59:17 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Re @kill16381578 ガブ飲みする🍵]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Fri, 30 Dec 2022 04:28:58 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1608681528057556994</guid>
             <link>https://twitter.com/amaririsu_ch/status/1608681528057556994</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[実家へGO ε＝┏(･ω･)┛]]></title>
+            <description><![CDATA[実家へGO　ε＝┏(･ω･)┛]]></description>
+            <pubDate>Thu, 29 Dec 2022 04:56:47 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1608326137922609153</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1608326137922609153</link>
             
             
             
