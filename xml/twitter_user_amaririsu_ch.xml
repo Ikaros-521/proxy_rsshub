@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Sat, 11 Feb 2023 06:42:34 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 11 Feb 2023 06:49:28 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[悪いな… 僕一足先にリア充になるわ……]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Fri, 06 Jan 2023 04:19:41 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1611215904293138432</guid>
             <link>https://twitter.com/amaririsu_ch/status/1611215904293138432</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[胃が死んじゃった…………]]></title>
+            <description><![CDATA[胃が死んじゃった…………]]></description>
+            <pubDate>Fri, 06 Jan 2023 04:19:06 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1611215758276833280</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1611215758276833280</link>
             
             
             
