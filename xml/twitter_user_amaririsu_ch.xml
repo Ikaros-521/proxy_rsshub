@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Tue, 14 Feb 2023 23:26:51 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 14 Feb 2023 23:34:21 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Re @Vtuber3radenn そう！パウンドケーキもついてきた！ 旅行すなわち美食なり……]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Fri, 06 Jan 2023 04:20:33 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1611216125601411074</guid>
             <link>https://twitter.com/amaririsu_ch/status/1611216125601411074</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[うちのリリエを食べて胃酸抑えるか(バリムシャァ)]]></title>
+            <description><![CDATA[うちのリリエを食べて胃酸抑えるか(バリムシャァ)]]></description>
+            <pubDate>Fri, 06 Jan 2023 04:19:59 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1611215981812264963</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1611215981812264963</link>
             
             
             
