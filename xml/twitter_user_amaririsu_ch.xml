@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Sun, 19 Feb 2023 13:41:26 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 19 Feb 2023 13:48:44 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Re リリ餌は1人100再生よろしく]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Mon, 09 Jan 2023 03:51:36 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1612296002282872832</guid>
             <link>https://twitter.com/amaririsu_ch/status/1612296002282872832</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[今日は魔界の成人式です、おめでたい🎉 ちなみにスライムの成人はレベル5以上なので、年齢は関係ありません。 ドラクエには未成年のスライムも出演してます。]]></title>
+            <description><![CDATA[今日は魔界の成人式です、おめでたい🎉<br>ちなみにスライムの成人はレベル5以上なので、年齢は関係ありません。<br>ドラクエには未成年のスライムも出演してます。]]></description>
+            <pubDate>Mon, 09 Jan 2023 03:28:01 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1612290068789723137</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1612290068789723137</link>
             
             
             
