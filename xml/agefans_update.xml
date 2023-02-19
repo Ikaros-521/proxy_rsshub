@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="http://getrss2021.xyz:1200/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 19 Feb 2023 08:29:56 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 19 Feb 2023 08:40:05 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[我的英雄学院 第六季]]></title>
@@ -238,6 +238,10 @@
                 <div class="blocktitle detail_title1">相关动画：</div>
                 <ul class="blockcontent">
                   
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20220526">名侦探柯南 本厅的刑警恋爱故事～结婚前夜～</a>
+        </li>
+        
         <li class="relates_series">
             <a href="https://www.agemys.cc/detail/20220391">名侦探柯南 犯人犯泽先生</a>
         </li>
