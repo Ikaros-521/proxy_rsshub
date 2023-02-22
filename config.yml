@@ -6,6 +6,8 @@ instances:
 - http://getrss2021.xyz:1200/
 - https://rsshub.app/
 routes:
+- title: 我的github
+  path: github/repos/Ikaros-521
 - title: 我的推特
   path: twitter/user/love_ikaros1314
 - title: 大酱的 推特
