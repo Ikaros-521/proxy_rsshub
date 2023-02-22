@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+
+>
+    <channel>
+        <title><![CDATA[Ikaros-521's GitHub repositories]]></title>
+        <link>https://github.com/Ikaros-521</link>
+        <atom:link href="https://rsshub/github/repos/Ikaros-521" rel="self" type="application/rss+xml" />
+        <description><![CDATA[Ikaros-521's GitHub repositories - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Wed, 22 Feb 2023 05:22:46 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_random_stereotypes]]></title>
+            <description><![CDATA[基于Nonebot2的发病语录插件]]></description>
+            <pubDate>Wed, 22 Feb 2023 01:56:54 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_random_stereotypes</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_random_stereotypes</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-template]]></title>
+            <description><![CDATA[nonebot2 插件模板库]]></description>
+            <pubDate>Wed, 22 Feb 2023 00:46:23 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-template</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-template</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[VITS-fast-fine-tuning]]></title>
+            <description><![CDATA[This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and any-to-any voice conversion]]></description>
+            <pubDate>Sun, 19 Feb 2023 11:06:31 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/VITS-fast-fine-tuning</guid>
+            <link>https://github.com/Ikaros-521/VITS-fast-fine-tuning</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_BitTorrent]]></title>
+            <description><![CDATA[No description]]></description>
+            <pubDate>Sat, 11 Feb 2023 15:56:24 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_BitTorrent</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_BitTorrent</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[geetest-validator]]></title>
+            <description><![CDATA[极验手动验证器]]></description>
+            <pubDate>Sat, 11 Feb 2023 06:28:31 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/geetest-validator</guid>
+            <link>https://github.com/Ikaros-521/geetest-validator</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[alist]]></title>
+            <description><![CDATA[🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。]]></description>
+            <pubDate>Tue, 07 Feb 2023 00:46:38 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/alist</guid>
+            <link>https://github.com/Ikaros-521/alist</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PyQt5_Demo]]></title>
+            <description><![CDATA[存储pyqt5编写的相关demo]]></description>
+            <pubDate>Tue, 31 Jan 2023 09:07:06 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/PyQt5_Demo</guid>
+            <link>https://github.com/Ikaros-521/PyQt5_Demo</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[PyQt5-SerialPort-Stable]]></title>
+            <description><![CDATA[PyQt5 写的 GUI 串口调试助手稳定版]]></description>
+            <pubDate>Tue, 31 Jan 2023 08:22:07 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/PyQt5-SerialPort-Stable</guid>
+            <link>https://github.com/Ikaros-521/PyQt5-SerialPort-Stable</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[get_bili_medal_list]]></title>
+            <description><![CDATA[爬取b站主播直播间牌子信息爬取b站主播直播间牌子信息；b站所有用户信息；用户直播间信息；接码平台数据；b站短信登录]]></description>
+            <pubDate>Mon, 30 Jan 2023 08:55:53 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/get_bili_medal_list</guid>
+            <link>https://github.com/Ikaros-521/get_bili_medal_list</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[tampermonkey_scripts]]></title>
+            <description><![CDATA[备份我开发的相关油猴插件]]></description>
+            <pubDate>Fri, 20 Jan 2023 10:06:28 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/tampermonkey_scripts</guid>
+            <link>https://github.com/Ikaros-521/tampermonkey_scripts</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Y2B]]></title>
+            <description><![CDATA[把油管上的视频转投到哔哩哔哩，支持CC字幕]]></description>
+            <pubDate>Mon, 09 Jan 2023 12:32:04 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/Y2B</guid>
+            <link>https://github.com/Ikaros-521/Y2B</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[SMSBoom]]></title>
+            <description><![CDATA[短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！]]></description>
+            <pubDate>Tue, 03 Jan 2023 09:18:19 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/SMSBoom</guid>
+            <link>https://github.com/Ikaros-521/SMSBoom</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[LotteryAutoScript]]></title>
+            <description><![CDATA[Bili动态抽奖助手]]></description>
+            <pubDate>Sun, 01 Jan 2023 15:22:27 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/LotteryAutoScript</guid>
+            <link>https://github.com/Ikaros-521/LotteryAutoScript</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-bangumi-search]]></title>
+            <description><![CDATA[a nonebot2 plugin to help you search anime on bgm.tv and return some information to you]]></description>
+            <pubDate>Tue, 27 Dec 2022 06:03:52 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-bangumi-search</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-bangumi-search</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-qrcode]]></title>
+            <description><![CDATA[qq聊天二维码插件]]></description>
+            <pubDate>Tue, 27 Dec 2022 05:53:22 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-qrcode</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-qrcode</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[chatgpt-html]]></title>
+            <description><![CDATA[chatgpt html online]]></description>
+            <pubDate>Mon, 19 Dec 2022 07:22:42 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/chatgpt-html</guid>
+            <link>https://github.com/Ikaros-521/chatgpt-html</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_randomtkk]]></title>
+            <description><![CDATA[Find Tan Kuku for nonebot2 from nonebot_instant_plugins]]></description>
+            <pubDate>Mon, 19 Dec 2022 02:06:30 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_randomtkk</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_randomtkk</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_random_ban]]></title>
+            <description><![CDATA[适用于nonebot2 v11的随机禁言一名群员n分钟 插件 ]]></description>
+            <pubDate>Sun, 18 Dec 2022 15:49:10 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_random_ban</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_random_ban</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_abstain_diary]]></title>
+            <description><![CDATA[适用于nonebot2 v11的 戒x打卡日记 插件]]></description>
+            <pubDate>Wed, 14 Dec 2022 12:30:23 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_abstain_diary</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_abstain_diary</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-exchangerate]]></title>
+            <description><![CDATA[适配nb的2.0.0b5版本]]></description>
+            <pubDate>Sat, 10 Dec 2022 16:24:57 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-exchangerate</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-exchangerate</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-majsoul]]></title>
+            <description><![CDATA[Nonebot 雀魂信息查询插件 py3.8版修改]]></description>
+            <pubDate>Sat, 10 Dec 2022 11:03:00 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-majsoul</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-majsoul</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_remove_bg]]></title>
+            <description><![CDATA[适用于nonebot2 v11的基于remove.bg的图片背景消除插件]]></description>
+            <pubDate>Tue, 06 Dec 2022 12:45:13 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_remove_bg</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_remove_bg</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_colormind]]></title>
+            <description><![CDATA[适用于nonebot2 v11的调用colormind.io的API随机获取一种配色方案。]]></description>
+            <pubDate>Tue, 06 Dec 2022 08:22:32 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_colormind</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_colormind</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-chatgpt]]></title>
+            <description><![CDATA[No description]]></description>
+            <pubDate>Mon, 05 Dec 2022 12:43:42 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-chatgpt</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-chatgpt</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_openAI_completions]]></title>
+            <description><![CDATA[适用于nonebot2 v11的调用openAI completions接口实现的对话插件，部分源码由chatGPT编写。]]></description>
+            <pubDate>Mon, 05 Dec 2022 11:56:08 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_openAI_completions</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_openAI_completions</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-remake]]></title>
+            <description><![CDATA[适用于 Nonebot2 的人生重开模拟器]]></description>
+            <pubDate>Sat, 03 Dec 2022 13:19:58 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-remake</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-remake</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_trace_moe]]></title>
+            <description><![CDATA[适用于nonebot2 v11的基于trace.moe的动画截图场景追溯插件]]></description>
+            <pubDate>Sat, 03 Dec 2022 12:12:44 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_trace_moe</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_trace_moe</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_listener]]></title>
+            <description><![CDATA[No description]]></description>
+            <pubDate>Fri, 02 Dec 2022 08:46:54 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_listener</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_listener</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_note]]></title>
+            <description><![CDATA[No description]]></description>
+            <pubDate>Mon, 28 Nov 2022 16:00:29 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_note</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_note</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[proxy_rsshub]]></title>
+            <description><![CDATA[使用 GitHub Actions 反代 RSSHub + 多实例轮询]]></description>
+            <pubDate>Mon, 28 Nov 2022 08:13:09 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/proxy_rsshub</guid>
+            <link>https://github.com/Ikaros-521/proxy_rsshub</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>

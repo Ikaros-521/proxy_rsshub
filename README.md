@@ -14,7 +14,11 @@ https://github.com/wdssmq/proxy_rsshub
 
 ---start---
 
-2023-02-22 13:08:53
+2023-02-22 13:22:43
+
+title: 我的github
+
+path: [github/repos/Ikaros-521](xml/github_repos_Ikaros-521.xml "我的github") 「[raw](xml/github_repos_Ikaros-521.xml?raw=true "我的github")」
 
 title: 我的推特
 
