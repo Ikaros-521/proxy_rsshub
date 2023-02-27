@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Mon, 27 Feb 2023 03:33:00 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 27 Feb 2023 03:43:06 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Re @takafeng1 @MY_HuaHH 知らない、引っ越してから試してみるしかない 今より強いインターネットにはする]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Thu, 12 Jan 2023 05:31:18 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1613408254713008129</guid>
             <link>https://twitter.com/amaririsu_ch/status/1613408254713008129</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @toudoupino お仕事してるの世界一えらーーい！！！ がんばってるぴのちゃん輝いてる！！よっ！！うさちゃん界のレジェンド！！！！]]></title>
+            <description><![CDATA[Re @toudoupino お仕事してるの世界一えらーーい！！！<br>がんばってるぴのちゃん輝いてる！！よっ！！うさちゃん界のレジェンド！！！！]]></description>
+            <pubDate>Thu, 12 Jan 2023 05:30:54 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1613408155035389953</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1613408155035389953</link>
             
             
             
