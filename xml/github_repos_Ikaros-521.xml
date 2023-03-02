@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 02 Mar 2023 00:45:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 02:18:13 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-bing-chat]]></title>
+            <description><![CDATA[一个可以使用新版Bing进行聊天的NoneBot插件]]></description>
+            <pubDate>Thu, 02 Mar 2023 01:40:23 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-bing-chat</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-bing-chat</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[nonebot_plugin_random_stereotypes]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Mon, 28 Nov 2022 16:00:29 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_note</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_note</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[proxy_rsshub]]></title>
-            <description><![CDATA[使用 GitHub Actions 反代 RSSHub + 多实例轮询]]></description>
-            <pubDate>Mon, 28 Nov 2022 08:13:09 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/proxy_rsshub</guid>
-            <link>https://github.com/Ikaros-521/proxy_rsshub</link>
             
             
             
