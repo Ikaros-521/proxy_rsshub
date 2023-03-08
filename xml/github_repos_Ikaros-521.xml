@@ -15,12 +15,12 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 08 Mar 2023 16:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 16:43:27 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
             <title><![CDATA[audio_multiple_in_one-with_interval]]></title>
-            <description><![CDATA[基于python3实现将指定文件夹下的所有音频文件合成为一个音频文件，每个音频文件之间有一个固定的静音间隔]]></description>
+            <description><![CDATA[基于python3实现将指定文件夹下的所有音频文件合成为一个音频文件，每个音频文件之间有一个固定的静音间隔；图片+音频合成视频]]></description>
             <pubDate>Wed, 08 Mar 2023 09:04:55 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/audio_multiple_in_one-with_interval</guid>
             <link>https://github.com/Ikaros-521/audio_multiple_in_one-with_interval</link>
