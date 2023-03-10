@@ -15,24 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 10 Mar 2023 12:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 12:52:12 GMT</lastBuildDate>
         <ttl>1</ttl>
-        
-        <item>
-            <title><![CDATA[lgc2333]]></title>
-            <description><![CDATA[Profile]]></description>
-            <pubDate>Fri, 10 Mar 2023 11:50:02 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/lgc2333</guid>
-            <link>https://github.com/Ikaros-521/lgc2333</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[com_loop_link]]></title>
@@ -488,6 +472,22 @@
             <pubDate>Mon, 05 Dec 2022 11:56:08 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_openAI_completions</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_openAI_completions</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[nonebot-plugin-remake]]></title>
+            <description><![CDATA[适用于 Nonebot2 的人生重开模拟器]]></description>
+            <pubDate>Sat, 03 Dec 2022 13:19:58 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-remake</guid>
+            <link>https://github.com/Ikaros-521/nonebot-plugin-remake</link>
             
             
             
