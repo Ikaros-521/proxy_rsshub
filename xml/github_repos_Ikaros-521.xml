@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 10 Mar 2023 08:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 08:43:36 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[com_loop_link]]></title>
+            <description><![CDATA[基于python3实现监听指定端口，获取串口打印数据存入log.txt文件，并自动重连。]]></description>
+            <pubDate>Fri, 10 Mar 2023 08:38:36 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/com_loop_link</guid>
+            <link>https://github.com/Ikaros-521/com_loop_link</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[audio_multiple_in_one-with_interval]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 03 Dec 2022 13:19:58 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-remake</guid>
             <link>https://github.com/Ikaros-521/nonebot-plugin-remake</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot_plugin_trace_moe]]></title>
-            <description><![CDATA[适用于nonebot2 v11的基于trace.moe的动画截图场景追溯插件]]></description>
-            <pubDate>Sat, 03 Dec 2022 12:12:44 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_trace_moe</guid>
-            <link>https://github.com/Ikaros-521/nonebot_plugin_trace_moe</link>
             
             
             
