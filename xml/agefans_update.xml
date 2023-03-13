@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 13 Mar 2023 11:36:28 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 13 Mar 2023 11:46:37 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[博人传 火影忍者新时代]]></title>
@@ -1428,6 +1428,10 @@
                 <ul class="blockcontent">
                   
         <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20220528">海贼王 红发歌姬</a>
+        </li>
+        
+        <li class="relates_series">
             <a href="https://www.agemys.cc/detail/20000009">海贼王SP合集</a>
         </li>
         
@@ -2350,7 +2354,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220186#01:30 第10集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220186#01:00 第10集</guid>
             <link>https://www.agemys.cc/detail/20220186</link>
             
             
