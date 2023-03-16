@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Thu, 16 Mar 2023 07:37:47 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 16 Mar 2023 07:44:13 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[荷解きが一生終わらん]]></title>
@@ -318,22 +318,6 @@
             <pubDate>Fri, 13 Jan 2023 05:58:19 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1613777442388480000</guid>
             <link>https://twitter.com/amaririsu_ch/status/1613777442388480000</link>
-            
-            
-            
-            <author><![CDATA[アマリリスちゃんねーる]]></author>
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Re 中身はココアです。 スタバのココア好き]]></title>
-            <description><![CDATA[Re 中身はココアです。<br>スタバのココア好き]]></description>
-            <pubDate>Thu, 12 Jan 2023 05:31:18 GMT</pubDate>
-            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1613408254713008129</guid>
-            <link>https://twitter.com/amaririsu_ch/status/1613408254713008129</link>
             
             
             
