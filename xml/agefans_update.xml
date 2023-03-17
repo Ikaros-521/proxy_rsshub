@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 17 Mar 2023 14:51:09 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 17 Mar 2023 14:55:41 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[间谍教室]]></title>
@@ -212,7 +212,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230029#22:30 第10集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230029#22:30 第11集</guid>
             <link>https://www.agemys.cc/detail/20230029</link>
             
             
@@ -1306,7 +1306,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230025#23:00 第22集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230025#22:05 第22集</guid>
             <link>https://www.agemys.cc/detail/20230025</link>
             
             
@@ -1409,7 +1409,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220529#第02话</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220529#第02集</guid>
             <link>https://www.agemys.cc/detail/20220529</link>
             
             
