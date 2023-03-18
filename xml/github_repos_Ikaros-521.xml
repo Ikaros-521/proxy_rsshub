@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 18 Mar 2023 15:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 16:14:55 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[nonebot_template_plugin]]></title>
+            <description><![CDATA[基于nonebot2的v11的插件编写模板（仅供参考，并不全面。此模板仅适用于0基础但具有一定理解力的小白、有python基础的新人、有其他编程经验的新人）]]></description>
+            <pubDate>Sat, 18 Mar 2023 16:02:18 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_template_plugin</guid>
+            <link>https://github.com/Ikaros-521/nonebot_template_plugin</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[so-vits-svc]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Mon, 05 Dec 2022 12:43:42 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-chatgpt</guid>
             <link>https://github.com/Ikaros-521/nonebot-plugin-chatgpt</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot_plugin_openAI_completions]]></title>
-            <description><![CDATA[适用于nonebot2 v11的调用openAI completions接口实现的对话插件，部分源码由chatGPT编写。]]></description>
-            <pubDate>Mon, 05 Dec 2022 11:56:08 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_openAI_completions</guid>
-            <link>https://github.com/Ikaros-521/nonebot_plugin_openAI_completions</link>
             
             
             
