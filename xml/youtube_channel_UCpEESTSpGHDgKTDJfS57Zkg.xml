@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[猫音すず - YouTube]]></title>
         <link>https://www.youtube.com/channel/UCpEESTSpGHDgKTDJfS57Zkg</link>
-        <atom:link href="https://rsshub/youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 猫音すず - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 20 Mar 2023 19:43:54 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 20 Mar 2023 19:50:51 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【朝活雑談/Free Talk】 3/20 月曜日！モーニングねこね #猫音すず 【Vtuber】]]></title>
