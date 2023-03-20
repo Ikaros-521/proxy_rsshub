@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @間宵 雫☾☔@イラストレーター]]></title>
         <link>https://twitter.com/shizuku_mayoi</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/shizuku_mayoi" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/shizuku_mayoi" rel="self" type="application/rss+xml" />
         <description><![CDATA[イラストレーター/Live2Dモデラー/セルフ受肉Vtuber
 
 推しマ ：☾☔
@@ -19,13 +19,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://pbs.twimg.com/profile_images/1609660091971833856/aGQyQBj2.jpg</url>
+            <url>http://pbs.twimg.com/profile_images/1609660091971833856/aGQyQBj2_normal.jpg</url>
             <title><![CDATA[Twitter @間宵 雫☾☔@イラストレーター]]></title>
             <link>https://twitter.com/shizuku_mayoi</link>
         </image>
         
-        <lastBuildDate>Mon, 20 Mar 2023 23:44:37 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 20 Mar 2023 23:50:56 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[Re @seijiro_v なんか一瞬シャドウBANみたいなの入ってたっぽいんよなー！]]></title>
