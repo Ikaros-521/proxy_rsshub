@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Ikaros-521's GitHub repositories]]></title>
         <link>https://github.com/Ikaros-521</link>
-        <atom:link href="https://rsshub/github/repos/Ikaros-521" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/github/repos/Ikaros-521" rel="self" type="application/rss+xml" />
         <description><![CDATA[Ikaros-521's GitHub repositories - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 21 Mar 2023 00:57:33 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 21 Mar 2023 02:02:44 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[Bilibili-AutoRedPacket]]></title>
+            <description><![CDATA[使用Playwright全自动化抢B站直播间红包，高效毛取！]]></description>
+            <pubDate>Tue, 21 Mar 2023 01:50:03 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/Bilibili-AutoRedPacket</guid>
+            <link>https://github.com/Ikaros-521/Bilibili-AutoRedPacket</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[nonebot_template_plugin]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Tue, 06 Dec 2022 08:22:32 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_colormind</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_colormind</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot-plugin-chatgpt]]></title>
-            <description><![CDATA[No description]]></description>
-            <pubDate>Mon, 05 Dec 2022 12:43:42 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-chatgpt</guid>
-            <link>https://github.com/Ikaros-521/nonebot-plugin-chatgpt</link>
             
             
             
