@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @Ikaros]]></title>
         <link>https://twitter.com/love_ikaros1314</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/love_ikaros1314" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/love_ikaros1314" rel="self" type="application/rss+xml" />
         <description><![CDATA[万事皆有可能 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://pbs.twimg.com/profile_images/1522189927714222081/D7-262Nm.jpg</url>
+            <url>http://pbs.twimg.com/profile_images/1522189927714222081/D7-262Nm_normal.jpg</url>
             <title><![CDATA[Twitter @Ikaros]]></title>
             <link>https://twitter.com/love_ikaros1314</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Mar 2023 00:34:13 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 23 Mar 2023 01:51:29 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[测试15]]></title>
