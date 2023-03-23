@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[猫音すず - YouTube]]></title>
         <link>https://www.youtube.com/channel/UCpEESTSpGHDgKTDJfS57Zkg</link>
-        <atom:link href="https://rsshub/youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 猫音すず - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 23 Mar 2023 14:53:12 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 23 Mar 2023 15:00:41 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[2/13 おはよう #vtuber #猫音すず #Shorts]]></title>
