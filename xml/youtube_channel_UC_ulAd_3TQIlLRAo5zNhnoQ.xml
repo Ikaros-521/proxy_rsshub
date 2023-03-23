@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[ひょがよめ🦘Hyogayome💜 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC_ulAd_3TQIlLRAo5zNhnoQ</link>
-        <atom:link href="https://rsshub/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel ひょがよめ🦘Hyogayome💜 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 22 Mar 2023 23:55:22 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 23 Mar 2023 00:34:55 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【Stream】🐾Charla🐾Chit chat🐾¡Habla mucho conmigo! 雑談するよ❣【JP/EN/ES】]]></title>
