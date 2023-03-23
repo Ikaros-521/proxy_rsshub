@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @ゅゅぇ]]></title>
         <link>https://twitter.com/chii_nemui</link>
-        <atom:link href="https://rsshub/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
         <description><![CDATA[Twitter @ゅゅぇ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/chii_nemui</link>
         </image>
         
-        <lastBuildDate>Thu, 23 Mar 2023 05:24:37 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 23 Mar 2023 05:31:59 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[花見]]></title>
