@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @ゅゅぇ]]></title>
         <link>https://twitter.com/chii_nemui</link>
-        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
         <description><![CDATA[Twitter @ゅゅぇ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/chii_nemui</link>
         </image>
         
-        <lastBuildDate>Fri, 24 Mar 2023 20:41:06 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Fri, 24 Mar 2023 20:47:55 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[Re @WpmLgtEjYOLL9ip 意大利面健康吗？]]></title>
