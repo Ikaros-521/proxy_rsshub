@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://vercel.getrss2021.xyz/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,7 +15,7 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 25 Mar 2023 13:32:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 13:38:33 GMT</lastBuildDate>
         <ttl>5</ttl>
         
         <item>
@@ -2231,7 +2231,7 @@
                 <span class="detail_imform_value">2022-10-14</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">完结</span></li>
+                <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">搞笑 奇幻</span></li>
@@ -2258,7 +2258,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220300#第23集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220300#00:45 第23集</guid>
             <link>https://www.agemys.cc/detail/20220300</link>
             
             
@@ -2334,7 +2334,7 @@
                 <span class="detail_imform_value">2023-01-06</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">完结</span></li>
+                <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">奇幻 冒险 战斗</span></li>
@@ -2361,7 +2361,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220450#第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220450#01:23 第12集</guid>
             <link>https://www.agemys.cc/detail/20220450</link>
             
             
