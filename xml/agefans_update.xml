@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 26 Mar 2023 13:41:58 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 26 Mar 2023 13:51:06 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[名侦探柯南]]></title>
@@ -2796,7 +2796,7 @@
                 <span class="detail_imform_value">2023-01-07</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">完结</span></li>
+                <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">恋爱 治愈</span></li>
@@ -2823,7 +2823,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220143#第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220143#23:00 第12集</guid>
             <link>https://www.agemys.cc/detail/20220143</link>
             
             
@@ -2899,7 +2899,7 @@
                 <span class="detail_imform_value">2023-01-07</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">完结</span></li>
+                <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">科幻</span></li>
@@ -2926,7 +2926,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230032#第12集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230032#23:30 第11集</guid>
             <link>https://www.agemys.cc/detail/20230032</link>
             
             
