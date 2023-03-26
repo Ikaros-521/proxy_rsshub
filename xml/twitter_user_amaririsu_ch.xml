@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://vercel.getrss2021.xyz/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Sun, 26 Mar 2023 07:27:22 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 26 Mar 2023 07:34:23 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[起きちゃった……睡眠ゴミ]]></title>
@@ -318,6 +318,22 @@
             <pubDate>Sun, 29 Jan 2023 11:59:50 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1619666626173100032</guid>
             <link>https://twitter.com/amaririsu_ch/status/1619666626173100032</link>
+            
+            
+            
+            <author><![CDATA[アマリリスちゃんねーる]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[Re @toudoupino 僕もーー！！！ ｽｷ(*ˊ͈ - ˋ͈*❤︎*ˊ͈ - ˋ͈*)ｽｷ]]></title>
+            <description><![CDATA[Re @toudoupino 僕もーー！！！<br>ｽｷ(*ˊ͈ - ˋ͈*❤︎*ˊ͈ - ˋ͈*)ｽｷ]]></description>
+            <pubDate>Fri, 13 Jan 2023 05:58:19 GMT</pubDate>
+            <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1613777442388480000</guid>
+            <link>https://twitter.com/amaririsu_ch/status/1613777442388480000</link>
             
             
             
