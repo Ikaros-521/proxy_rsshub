@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[ひょがよめ🦘Hyogayome💜 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC_ulAd_3TQIlLRAo5zNhnoQ</link>
-        <atom:link href="https://rsshub/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel ひょがよめ🦘Hyogayome💜 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 26 Mar 2023 17:01:20 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 26 Mar 2023 17:14:10 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[【#Vtuber歌リレー】🌸歌枠リレー🌸楽しく歌いたい🌸Cantar una canción🌸【#新緑のプリマヴェーラ】]]></title>
