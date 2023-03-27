@@ -15,350 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 27 Mar 2023 05:29:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Mar 2023 05:36:26 GMT</lastBuildDate>
         <ttl>1</ttl>
-        
-        <item>
-            <title><![CDATA[海贼王]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20000001.jpg" alt="海贼王">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">ONE PIECE</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">航海王 / ワンピース</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">尾田栄一郎</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">東映動画</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">1999-10-20</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">搞笑 冒险 热血 励志</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">搞笑 冒险 热血 励志</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">http://www.fujitv.co.jp/b_hp/onepiece/index.html</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20220528">海贼王 红发歌姬</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20000009">海贼王SP合集</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20140149">海贼王TV版特别篇 3D2Y 跨越艾斯之死！与路飞伙伴的誓言</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20170218">海贼王TV版特别篇 东海之章 路飞与四位伙伴的大冒险！</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20120090">海贼王TV版特别篇 娜美篇 航海士的眼泪与羁绊</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20030004">海贼王TV版特别篇 守卫！最后的大舞台</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20050009">海贼王TV版特别篇 年底特别企画！草帽小子路飞的捕头传</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20130122">海贼王TV版特别篇 梅利篇 另一名同伴的故事</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20030002">海贼王TV版特别篇 父亲宏大的理想</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20180316">海贼王TV版特别篇 空岛之章</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20150148">海贼王TV版特别篇 萨波篇 三兄弟的羁绊 奇迹的再会和被继承的意志</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20120092">海贼王TV版特别篇 路飞篇 手掌岛的冒险</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20000007">海贼王TV版特别篇 路飞落下！秘境 海肚脐的大冒险</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20150147">海贼王TV版特别篇 雾之岛的冒险</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20160217">海贼王TV版特别篇 黄金之心</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20120091">海贼王剧场版 FILM Z</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20010002">海贼王剧场版 发条岛的冒险</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20090025">海贼王剧场版 强者世界</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20060015">海贼王剧场版 机关城的机械巨兵</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20030003">海贼王剧场版 死亡尽头的冒险</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20070018">海贼王剧场版 沙漠的王女与海贼们</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20190400">海贼王剧场版 狂热行动</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20020003">海贼王剧场版 珍兽岛之乔巴王国</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20050008">海贼王剧场版 祭典男爵与神秘岛</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20080028">海贼王剧场版 绽放在寒冬的奇迹樱花</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20040004">海贼王剧场版 被诅咒的圣剑</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20110061">海贼王剧场版 追寻草帽</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20160190">海贼王剧场版 黄金城</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20000008">海贼王剧场版 黄金岛冒险</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20110062">海贼王特别篇 3D 激走！陷阱过山车</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20080027">海贼王特别篇 ROMANCE DAWN STORY</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20000006">海贼王特别篇 打倒海贼强萨克！</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20020004">海贼王特别篇 梦幻足球王</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20040003">海贼王特别篇 目标 海贼棒球王</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20000001#第1055集</guid>
-            <link>https://www.agemys.cc/detail/20000001</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[虫王战队超王者]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230059.jpg" alt="虫王战队超王者">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">王様戦隊キングオージャー</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">王者战队君王者 / 国王战队君王者 / 王样战队君王者</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">八手三郎</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">东映株式会社</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-03-05</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">特摄 机战</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">特摄 机战</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://www.tv-asahi.co.jp/king-ohger/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230059#09:30 第04集</guid>
-            <link>https://www.agemys.cc/detail/20230059</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[伸向天空！光之美少女]]></title>
@@ -508,6 +166,212 @@
         </item>
         
         <item>
+            <title><![CDATA[虫王战队超王者]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230059.jpg" alt="虫王战队超王者">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">王様戦隊キングオージャー</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">王者战队君王者 / 国王战队君王者 / 王样战队君王者</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">八手三郎</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">东映株式会社</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-03-05</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">特摄 机战</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">特摄 机战</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://www.tv-asahi.co.jp/king-ohger/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230059#09:30 第04集</guid>
+            <link>https://www.agemys.cc/detail/20230059</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[东京复仇者 圣夜决战篇]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220344.jpg" alt="东京复仇者 圣夜决战篇">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">東京リベンジャーズ 聖夜決戦編</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">东京复仇者 第二季 / 重生之道</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">和久井健</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">ライデンフィルム</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-01-07</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">热血 战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">热血 战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://tokyo-revengers-anime.com/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220344#02:08 第12集</guid>
+            <link>https://www.agemys.cc/detail/20220344</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[假面骑士极狐]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -640,109 +504,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20220437#第28集</guid>
             <link>https://www.agemys.cc/detail/20220437</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[东京复仇者 圣夜决战篇]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220344.jpg" alt="东京复仇者 圣夜决战篇">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">東京リベンジャーズ 聖夜決戦編</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">东京复仇者 第二季 / 重生之道</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">和久井健</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">ライデンフィルム</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-01-07</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">热血 战斗</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">热血 战斗</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://tokyo-revengers-anime.com/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220344#02:08 第12集</guid>
-            <link>https://www.agemys.cc/detail/20220344</link>
             
             
             
@@ -1214,6 +975,109 @@
         </item>
         
         <item>
+            <title><![CDATA[我与机器子]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220516.jpg" alt="我与机器子">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">僕とロボコ</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">我与机器妹 / Me &amp; Roboco</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">宮崎周平</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">ぎゃろっぷ</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2022-12-04</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">搞笑 泡面番</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">搞笑 泡面番</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://boku-to-roboco.com/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220516#第16集</guid>
+            <link>https://www.agemys.cc/detail/20220516</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[再得一胜！]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -1317,10 +1181,10 @@
         </item>
         
         <item>
-            <title><![CDATA[我与机器子]]></title>
+            <title><![CDATA[樱桃小丸子 第二季 下]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220516.jpg" alt="我与机器子">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20180330.jpg" alt="樱桃小丸子 第二季 下">
               
               <!-- 收藏 -->
               <style>
@@ -1365,31 +1229,393 @@
                 <span class="detail_imform_value">TV</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">僕とロボコ</span></li>
+                <span class="detail_imform_value">ちびまる子ちゃん</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">我与机器妹 / Me &amp; Roboco</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">宮崎周平</span></li>
+                <span class="detail_imform_value">さくらももこ</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">ぎゃろっぷ</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2022-12-04</span></li>
+                <span class="detail_imform_value">2018-04-01</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
                 <span class="detail_imform_value">连载</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">搞笑 泡面番</span></li>
+                <span class="detail_imform_value">搞笑 亲子 亲情</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">搞笑 泡面番</span></li>
+                <span class="detail_imform_value">搞笑 亲子 亲情</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://boku-to-roboco.com/</span></li>
+                <span class="detail_imform_value">暂无</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000011">樱桃小丸子</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000004">樱桃小丸子 第二季</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000012">樱桃小丸子剧场版 大野与杉山</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000013">樱桃小丸子剧场版 我喜欢的歌</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20150154">樱桃小丸子剧场版 来自意大利的少年</a>
+        </li>
+        
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20180330#第1379集</guid>
+            <link>https://www.agemys.cc/detail/20180330</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[海贼王]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20000001.jpg" alt="海贼王">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">ONE PIECE</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">航海王 / ワンピース</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">尾田栄一郎</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">東映動画</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">1999-10-20</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">搞笑 冒险 热血 励志</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">搞笑 冒险 热血 励志</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">http://www.fujitv.co.jp/b_hp/onepiece/index.html</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20220528">海贼王 红发歌姬</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000009">海贼王SP合集</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20140149">海贼王TV版特别篇 3D2Y 跨越艾斯之死！与路飞伙伴的誓言</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20170218">海贼王TV版特别篇 东海之章 路飞与四位伙伴的大冒险！</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20120090">海贼王TV版特别篇 娜美篇 航海士的眼泪与羁绊</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20030004">海贼王TV版特别篇 守卫！最后的大舞台</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20050009">海贼王TV版特别篇 年底特别企画！草帽小子路飞的捕头传</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20130122">海贼王TV版特别篇 梅利篇 另一名同伴的故事</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20030002">海贼王TV版特别篇 父亲宏大的理想</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20180316">海贼王TV版特别篇 空岛之章</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20150148">海贼王TV版特别篇 萨波篇 三兄弟的羁绊 奇迹的再会和被继承的意志</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20120092">海贼王TV版特别篇 路飞篇 手掌岛的冒险</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000007">海贼王TV版特别篇 路飞落下！秘境 海肚脐的大冒险</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20150147">海贼王TV版特别篇 雾之岛的冒险</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20160217">海贼王TV版特别篇 黄金之心</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20120091">海贼王剧场版 FILM Z</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20010002">海贼王剧场版 发条岛的冒险</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20090025">海贼王剧场版 强者世界</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20060015">海贼王剧场版 机关城的机械巨兵</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20030003">海贼王剧场版 死亡尽头的冒险</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20070018">海贼王剧场版 沙漠的王女与海贼们</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20190400">海贼王剧场版 狂热行动</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20020003">海贼王剧场版 珍兽岛之乔巴王国</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20050008">海贼王剧场版 祭典男爵与神秘岛</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20080028">海贼王剧场版 绽放在寒冬的奇迹樱花</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20040004">海贼王剧场版 被诅咒的圣剑</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20110061">海贼王剧场版 追寻草帽</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20160190">海贼王剧场版 黄金城</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000008">海贼王剧场版 黄金岛冒险</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20110062">海贼王特别篇 3D 激走！陷阱过山车</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20080027">海贼王特别篇 ROMANCE DAWN STORY</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20000006">海贼王特别篇 打倒海贼强萨克！</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20020004">海贼王特别篇 梦幻足球王</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20040003">海贼王特别篇 目标 海贼棒球王</a>
+        </li>
+        
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20000001#第1055集</guid>
+            <link>https://www.agemys.cc/detail/20000001</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[最强阴阳师的异世界转生记]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220186.jpg" alt="最强阴阳师的异世界转生记">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">最強陰陽師の異世界転生記</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">The Reincarnation of the Strongest Onmyoji</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">小鈴危一</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">Studio Blanc.</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-01-07</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">奇幻 冒险</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">奇幻 冒险</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://saikyo-onmyouji.asmik-ace.co.jp/</span></li>
         </ul>
     </div>
 
@@ -1407,8 +1633,8 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220516#第16集</guid>
-            <link>https://www.agemys.cc/detail/20220516</link>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220186#01:00 第12集</guid>
+            <link>https://www.agemys.cc/detail/20220186</link>
             
             
             
@@ -1536,109 +1762,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20220203#第1集</guid>
             <link>https://www.agemys.cc/detail/20220203</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[最强阴阳师的异世界转生记]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220186.jpg" alt="最强阴阳师的异世界转生记">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">最強陰陽師の異世界転生記</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">The Reincarnation of the Strongest Onmyoji</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">小鈴危一</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">Studio Blanc.</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-01-07</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">奇幻 冒险</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">奇幻 冒险</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://saikyo-onmyouji.asmik-ace.co.jp/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220186#01:00 第12集</guid>
-            <link>https://www.agemys.cc/detail/20220186</link>
             
             
             
@@ -2837,113 +2960,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20230043#08:00 第11集</guid>
             <link>https://www.agemys.cc/detail/20230043</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[影之诗 第二季]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220151.jpg" alt="影之诗 第二季">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">シャドウバースF</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">影之诗F</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">暂无</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">ZEXCS</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2022-04-02</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">奇幻 热血 战斗 游戏</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">奇幻 热血 战斗 游戏</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://anime.shadowverse.jp/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200079">影之诗</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220151#09:00 第50集</guid>
-            <link>https://www.agemys.cc/detail/20220151</link>
             
             
             
