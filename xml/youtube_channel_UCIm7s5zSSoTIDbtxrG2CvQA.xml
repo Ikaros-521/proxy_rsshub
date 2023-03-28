@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[魔法幼女えう - YouTube]]></title>
         <link>https://www.youtube.com/channel/UCIm7s5zSSoTIDbtxrG2CvQA</link>
-        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UCIm7s5zSSoTIDbtxrG2CvQA" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/youtube/channel/UCIm7s5zSSoTIDbtxrG2CvQA" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 魔法幼女えう - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 28 Mar 2023 11:31:17 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 28 Mar 2023 11:37:52 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[あなたを癒すお姉さんボイス꒰ #VTuber/#魔法幼女えう💙💭💤 ‪꒱‬ #シチュボ #新人vtuber #shorts]]></title>
