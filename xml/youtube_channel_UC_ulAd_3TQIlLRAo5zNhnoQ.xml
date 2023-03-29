@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[ひょがよめ🦘Hyogayome💜 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC_ulAd_3TQIlLRAo5zNhnoQ</link>
-        <atom:link href="https://rsshub/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel ひょがよめ🦘Hyogayome💜 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 28 Mar 2023 23:59:58 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Wed, 29 Mar 2023 01:14:20 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[【Stream】🥽VRCHAT COLABO🥽CON GamsterGaming, KarunaHanami, Nara【#VRCHAT】]]></title>
