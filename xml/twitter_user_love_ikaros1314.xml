@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @Ikaros]]></title>
         <link>https://twitter.com/love_ikaros1314</link>
-        <atom:link href="https://rsshub.rssforever.com/twitter/user/love_ikaros1314" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/love_ikaros1314" rel="self" type="application/rss+xml" />
         <description><![CDATA[万事皆有可能 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/love_ikaros1314</link>
         </image>
         
-        <lastBuildDate>Thu, 30 Mar 2023 05:11:48 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Thu, 30 Mar 2023 05:25:54 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[测试15]]></title>
