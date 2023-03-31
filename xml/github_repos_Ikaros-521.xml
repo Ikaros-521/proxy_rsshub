@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 31 Mar 2023 11:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 11:19:51 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[AI-Vtuber]]></title>
+            <description><![CDATA[AI Vtuber是一个由ChatterBot驱动的虚拟主播，可以在Bilibili直播中与观众实时互动。它使用自然语言处理和文本转语音技术生成对观众问题的回答。]]></description>
+            <pubDate>Fri, 31 Mar 2023 11:10:14 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/AI-Vtuber</guid>
+            <link>https://github.com/Ikaros-521/AI-Vtuber</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Unify-Sign]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 10 Dec 2022 11:03:00 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-majsoul</guid>
             <link>https://github.com/Ikaros-521/nonebot-plugin-majsoul</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot_plugin_remove_bg]]></title>
-            <description><![CDATA[适用于nonebot2 v11的基于remove.bg的图片背景消除插件]]></description>
-            <pubDate>Tue, 06 Dec 2022 12:45:13 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_remove_bg</guid>
-            <link>https://github.com/Ikaros-521/nonebot_plugin_remove_bg</link>
             
             
             
