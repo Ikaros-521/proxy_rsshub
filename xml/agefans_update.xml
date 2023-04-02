@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 02 Apr 2023 06:27:18 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 02 Apr 2023 06:36:07 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[机甲少女爱丽丝]]></title>
@@ -109,7 +109,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220172#第00集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220172#20:00 第00集</guid>
             <link>https://www.agemys.cc/detail/20220172</link>
             
             
@@ -244,7 +244,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20000005#第1136集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20000005#19:30 第1136集</guid>
             <link>https://www.agemys.cc/detail/20000005</link>
             
             
@@ -347,7 +347,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230067#01:30 PV</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230067#01:30 第01集</guid>
             <link>https://www.agemys.cc/detail/20230067</link>
             
             
@@ -581,7 +581,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230092#03:25 第02话</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230092#03:25 第02集</guid>
             <link>https://www.agemys.cc/detail/20230092</link>
             
             
@@ -688,7 +688,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230090#18:00 PV</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230090#18:00 第01集</guid>
             <link>https://www.agemys.cc/detail/20230090</link>
             
             
@@ -1018,7 +1018,7 @@
                 <span class="detail_imform_value">鬼滅の刃 刀鍛冶の里編</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">暂无</span></li>
+                <span class="detail_imform_value">鬼灭之刃 刀匠村篇</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">原作：</span>
                 <span class="detail_imform_value">吾峠呼世晴</span></li>
@@ -1027,7 +1027,7 @@
                 <span class="detail_imform_value">ufotable</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">暂无</span></li>
+                <span class="detail_imform_value">2023-04-09</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
                 <span class="detail_imform_value">未播放</span></li>
@@ -1057,6 +1057,10 @@
         
         <li class="relates_series">
             <a href="https://www.agemys.cc/detail/20210372">鬼灭之刃 无限列车篇(TV版)</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20230098">鬼灭之刃 游郭篇 特別编集版</a>
         </li>
         
         <li class="relates_series">
