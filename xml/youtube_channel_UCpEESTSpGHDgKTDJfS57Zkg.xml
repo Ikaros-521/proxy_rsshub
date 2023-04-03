@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[猫音すず - YouTube]]></title>
         <link>https://www.youtube.com/channel/UCpEESTSpGHDgKTDJfS57Zkg</link>
-        <atom:link href="https://rsshub/youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/youtube/channel/UCpEESTSpGHDgKTDJfS57Zkg" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 猫音すず - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 03 Apr 2023 06:37:25 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 03 Apr 2023 06:44:17 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[【ガルパ】参加型協力ライブ！今日限定モカノーツ縛り #猫音すず 【Vtuber】]]></title>
