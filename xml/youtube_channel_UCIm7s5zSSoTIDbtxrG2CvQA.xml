@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[魔法幼女えう - YouTube]]></title>
         <link>https://www.youtube.com/channel/UCIm7s5zSSoTIDbtxrG2CvQA</link>
-        <atom:link href="https://rsshub/youtube/channel/UCIm7s5zSSoTIDbtxrG2CvQA" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.app/youtube/channel/UCIm7s5zSSoTIDbtxrG2CvQA" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 魔法幼女えう - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 03 Apr 2023 06:44:19 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 03 Apr 2023 06:51:36 GMT</lastBuildDate>
+        <ttl>120</ttl>
         
         <item>
             <title><![CDATA[˗ˏˋマリオカート８ˎˊ˗｜視聴者参加型｜ロリ天使の後ろを追い掛け回したい…！｜〚魔法幼女えう×星彩らいむ/ 新人VTuber〛]]></title>
