@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 04 Apr 2023 23:35:21 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 04 Apr 2023 23:37:45 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[绊之Allele]]></title>
@@ -319,7 +319,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220097#23:00 第01集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220097#23:00 PV</guid>
             <link>https://www.agemys.cc/detail/20220097</link>
             
             
@@ -609,7 +609,7 @@
                 <span class="detail_imform_value">2023-04-06</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">未播放</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">奇幻 战斗 校园</span></li>
@@ -1026,10 +1026,10 @@
                 <span class="detail_imform_value">NOMAD</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-04-03</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">未播放</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">奇幻 百合 战斗</span></li>
@@ -1056,7 +1056,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220172#20:00 第01集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220172#第00集</guid>
             <link>https://www.agemys.cc/detail/20220172</link>
             
             
@@ -1129,16 +1129,16 @@
                 <span class="detail_imform_value">MAPPA</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-04-01</span></li>
+                <span class="detail_imform_value">2022</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">未播放</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">奇幻 冒险 战斗</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">奇幻 冒险 战斗</span></li>
+                <span class="detail_imform_value">暂无</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">官方网站：</span>
                 <span class="detail_imform_value">https://www.jigokuraku.com/</span></li>
@@ -1278,7 +1278,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230092#03:25 第04集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230092#03:25 第02话</guid>
             <link>https://www.agemys.cc/detail/20230092</link>
             
             
@@ -2039,10 +2039,10 @@
                 <span class="detail_imform_value">完结</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">科幻</span></li>
+                <span class="detail_imform_value">特摄 科幻</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">科幻</span></li>
+                <span class="detail_imform_value">科幻 特摄</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">官方网站：</span>
                 <span class="detail_imform_value">http://garo-project.jp/ZERO_DRAGONBLOOD/</span></li>
@@ -2063,7 +2063,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20170286#第13集(完结)</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20170286#第13话(完结)</guid>
             <link>https://www.agemys.cc/detail/20170286</link>
             
             
