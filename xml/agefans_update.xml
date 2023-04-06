@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,155 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 06 Apr 2023 14:42:28 GMT</lastBuildDate>
-        <ttl>1</ttl>
-        
-        <item>
-            <title><![CDATA[进击的巨人 最终季 Part.3]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220244.jpg" alt="进击的巨人 最终季 Part.3">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">進撃の巨人 The Final Season 完結編</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">进击的巨人 最终季 完结篇 / Shingeki no Kyojin: The Final Season - Kanketsu-hen</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">諫山創</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">MAPPA</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-03-03</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">热血 战斗 悬疑 奇幻 剧情</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">热血 战斗 悬疑 奇幻 剧情</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://shingeki.tv/final</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20130023">进击的巨人</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20170190">进击的巨人 LOST GIRLS</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20140145">进击的巨人 无悔的选择</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200004">进击的巨人 最终季</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20220062">进击的巨人 最终季 Part.2</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20180179">进击的巨人 第三季</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20190083">进击的巨人 第三季 Part.2</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20170017">进击的巨人 第二季</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200278">进击的巨人 编年史</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20130119">进击的巨人OAD</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20150095">进击！巨人中学校</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220244#10:25 第01集</guid>
-            <link>https://www.agemys.cc/detail/20220244</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
+        <lastBuildDate>Thu, 06 Apr 2023 14:47:18 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[狩火之王]]></title>
@@ -1055,6 +908,268 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20230085#23:00 第01集</guid>
             <link>https://www.agemys.cc/detail/20230085</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[魔法使的新娘 第二季]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220441.jpg" alt="魔法使的新娘 第二季">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">魔法使いの嫁 SEASON2</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">魔法使之嫁 第二季 / The Ancient Magus' Bride SEASON2</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">ヤマザキコレ</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">スタジオカフカ</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-04-06</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">未播放</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">奇幻 爱情</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">奇幻 爱情</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://mahoyome.jp</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20170107">魔法使的新娘</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20210142">魔法使的新娘 西之少年与青岚的骑士</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20160188">魔法使的新娘OAD</a>
+        </li>
+        
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220441#21:00 第01集</guid>
+            <link>https://www.agemys.cc/detail/20220441</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[进击的巨人 最终季 Part.3]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220244.jpg" alt="进击的巨人 最终季 Part.3">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">進撃の巨人 The Final Season 完結編</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">进击的巨人 最终季 完结篇 / Shingeki no Kyojin: The Final Season - Kanketsu-hen</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">諫山創</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">MAPPA</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-03-03</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">热血 战斗 悬疑 奇幻 剧情</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">热血 战斗 悬疑 奇幻 剧情</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://shingeki.tv/final</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20130023">进击的巨人</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20170190">进击的巨人 LOST GIRLS</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20140145">进击的巨人 无悔的选择</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20200004">进击的巨人 最终季</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20220062">进击的巨人 最终季 Part.2</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20180179">进击的巨人 第三季</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20190083">进击的巨人 第三季 Part.2</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20170017">进击的巨人 第二季</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20200278">进击的巨人 编年史</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20130119">进击的巨人OAD</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20150095">进击！巨人中学校</a>
+        </li>
+        
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220244#10:25 第01集</guid>
+            <link>https://www.agemys.cc/detail/20220244</link>
             
             
             
@@ -2545,113 +2660,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20230092#03:25 第04集</guid>
             <link>https://www.agemys.cc/detail/20230092</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[伊甸星原 第二季]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230074.jpg" alt="伊甸星原 第二季">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">エデンズゼロ 第2期</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">EDENS ZERO 第2期</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">真島ヒロ</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">J.C.STAFF</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-04-01</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">战斗 奇幻 冒险</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">战斗 奇幻 冒险</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://edens-zero.net/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20210057">伊甸星原</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230074#23:55 第01集</guid>
-            <link>https://www.agemys.cc/detail/20230074</link>
             
             
             
