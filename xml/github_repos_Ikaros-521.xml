@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 06 Apr 2023 10:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 10:33:21 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[LMFlow]]></title>
+            <description><![CDATA[An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.]]></description>
+            <pubDate>Thu, 06 Apr 2023 10:31:40 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/LMFlow</guid>
+            <link>https://github.com/Ikaros-521/LMFlow</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[AI-Vtuber]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 10 Dec 2022 16:24:57 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-exchangerate</guid>
             <link>https://github.com/Ikaros-521/nonebot-plugin-exchangerate</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot-plugin-majsoul]]></title>
-            <description><![CDATA[Nonebot 雀魂信息查询插件 py3.8版修改]]></description>
-            <pubDate>Sat, 10 Dec 2022 11:03:00 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-majsoul</guid>
-            <link>https://github.com/Ikaros-521/nonebot-plugin-majsoul</link>
             
             
             
