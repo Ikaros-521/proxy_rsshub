@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,14 +15,14 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 08 Apr 2023 03:21:49 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 08 Apr 2023 03:24:46 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
-            <title><![CDATA[色彩高校星]]></title>
+            <title><![CDATA[Opus.COLORs]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230063.jpg" alt="色彩高校星">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230063.jpg" alt="Opus.COLORs">
               
               <!-- 收藏 -->
               <style>
@@ -82,7 +82,7 @@
                 <span class="detail_imform_value">2023-04-06</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">未播放</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">科幻</span></li>
