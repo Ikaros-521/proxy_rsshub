@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 08 Apr 2023 09:31:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 09:38:36 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[SadTalker]]></title>
+            <description><![CDATA[（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation]]></description>
+            <pubDate>Sat, 08 Apr 2023 09:33:21 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/SadTalker</guid>
+            <link>https://github.com/Ikaros-521/SadTalker</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[LMFlow]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Wed, 14 Dec 2022 12:30:23 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_abstain_diary</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_abstain_diary</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot-plugin-exchangerate]]></title>
-            <description><![CDATA[适配nb的2.0.0b5版本]]></description>
-            <pubDate>Sat, 10 Dec 2022 16:24:57 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-exchangerate</guid>
-            <link>https://github.com/Ikaros-521/nonebot-plugin-exchangerate</link>
             
             
             
