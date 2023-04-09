@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 09 Apr 2023 05:29:56 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 09 Apr 2023 05:37:16 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[魔法少女毁灭者]]></title>
@@ -1029,7 +1029,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230038#00:00 第10集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230038#00:00 第11集</guid>
             <link>https://www.agemys.cc/detail/20230038</link>
             
             
