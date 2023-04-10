@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 10 Apr 2023 03:32:37 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 10 Apr 2023 03:35:09 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[海贼王]]></title>
@@ -567,7 +567,7 @@
                 <span class="detail_imform_value">2023-04-08</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">未播放</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">奇幻 战斗</span></li>
@@ -848,7 +848,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230099#10:30 第01集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230099#10:30 第01话(生肉)</guid>
             <link>https://www.agemys.cc/detail/20230099</link>
             
             
@@ -2054,7 +2054,7 @@
                 <span class="detail_imform_value">2023-04-08</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">未播放</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">奇幻 治愈 日常</span></li>
@@ -2157,7 +2157,7 @@
                 <span class="detail_imform_value">2023-04-01</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
+                <span class="detail_imform_value">未播放</span></li>
             <li class="detail_imform_kv">
                 <span class="detail_imform_tag">剧情类型：</span>
                 <span class="detail_imform_value">女性向 日常</span></li>
@@ -2287,7 +2287,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230038#00:00 第11集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230038#00:00 第10集</guid>
             <link>https://www.agemys.cc/detail/20230038</link>
             
             
