@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[ひょがよめ🦘Hyogayome💜 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC_ulAd_3TQIlLRAo5zNhnoQ</link>
-        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/youtube/channel/UC_ulAd_3TQIlLRAo5zNhnoQ" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel ひょがよめ🦘Hyogayome💜 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 10 Apr 2023 14:08:47 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Mon, 10 Apr 2023 14:21:35 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[【Stream】¿Sabías que Bon o bon también está disponible en Japón?🍫Comer Bon o bon japonés🍫【JP/EN/ES】]]></title>
