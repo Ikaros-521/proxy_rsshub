@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[黑男邱比特 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC4GZ1dNQKWWFDQ4IWl4DezA</link>
-        <atom:link href="https://rsshub/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 黑男邱比特 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 10 Apr 2023 04:52:07 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Mon, 10 Apr 2023 04:58:54 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[蘇格蘭格紋的歷史與發展｜History of tartan｜Sejarah tartan｜タータンの歴史｜타탄의 역사]]></title>
