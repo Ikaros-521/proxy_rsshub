@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 15 Apr 2023 19:30:47 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sat, 15 Apr 2023 19:35:48 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[江户前的废柴精灵]]></title>
@@ -1148,7 +1148,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230082#21:30 第2集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230082#21:30 第02集</guid>
             <link>https://www.agemys.cc/detail/20230082</link>
             
             
