@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 15 Apr 2023 16:04:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Apr 2023 16:25:32 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[BibiGPT]]></title>
+            <description><![CDATA[BibiGPT · One-click summary for video &amp;  audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc. 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 &amp; 课代表)]]></description>
+            <pubDate>Sat, 15 Apr 2023 16:15:02 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/BibiGPT</guid>
+            <link>https://github.com/Ikaros-521/BibiGPT</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[AI-Vtuber-Kun]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Mon, 19 Dec 2022 02:06:30 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_randomtkk</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_randomtkk</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot_plugin_random_ban]]></title>
-            <description><![CDATA[适用于nonebot2 v11的随机禁言一名群员n分钟 插件 ]]></description>
-            <pubDate>Sun, 18 Dec 2022 15:49:10 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_random_ban</guid>
-            <link>https://github.com/Ikaros-521/nonebot_plugin_random_ban</link>
             
             
             
