@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 16 Apr 2023 15:27:11 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 16 Apr 2023 15:33:41 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[UniteUp! 偶像集结]]></title>
@@ -2663,7 +2663,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230082#21:30 第02集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230082#21:30 第2集</guid>
             <link>https://www.agemys.cc/detail/20230082</link>
             
             
