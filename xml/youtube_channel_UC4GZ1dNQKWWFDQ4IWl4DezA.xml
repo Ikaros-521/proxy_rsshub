@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[黑男邱比特 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC4GZ1dNQKWWFDQ4IWl4DezA</link>
-        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 黑男邱比特 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 16 Apr 2023 03:31:25 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 16 Apr 2023 03:38:08 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[潑水節派對最強比基尼｜極高叉｜2023 party bikini｜บิกินี่ปาร์ตี้｜Songkran Festival in Thailand]]></title>
