@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 18 Apr 2023 09:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 09:35:53 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Auto-GPT]]></title>
+            <description><![CDATA[An experimental open-source attempt to make GPT-4 fully autonomous.]]></description>
+            <pubDate>Tue, 18 Apr 2023 09:30:16 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/Auto-GPT</guid>
+            <link>https://github.com/Ikaros-521/Auto-GPT</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[BibiGPT]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Mon, 19 Dec 2022 07:22:42 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/chatgpt-html</guid>
             <link>https://github.com/Ikaros-521/chatgpt-html</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot_plugin_randomtkk]]></title>
-            <description><![CDATA[Find Tan Kuku for nonebot2 from nonebot_instant_plugins]]></description>
-            <pubDate>Mon, 19 Dec 2022 02:06:30 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_randomtkk</guid>
-            <link>https://github.com/Ikaros-521/nonebot_plugin_randomtkk</link>
             
             
             
