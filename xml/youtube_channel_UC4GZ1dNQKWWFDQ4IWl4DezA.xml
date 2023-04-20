@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[黑男邱比特 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC4GZ1dNQKWWFDQ4IWl4DezA</link>
-        <atom:link href="https://rsshub/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 黑男邱比特 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 20 Apr 2023 18:42:17 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Thu, 20 Apr 2023 18:49:09 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[2023 Self-service car wash｜幫車子洗泰國浴｜セルフ洗車｜셀프 서비스 세차장]]></title>
