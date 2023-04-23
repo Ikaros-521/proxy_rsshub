@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 23 Apr 2023 20:49:10 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sun, 23 Apr 2023 20:59:03 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[天国大魔境]]></title>
@@ -1950,7 +1950,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220424#21:30 第03集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220424#21:30 第3集</guid>
             <link>https://www.agemys.cc/detail/20220424</link>
             
             
@@ -2477,7 +2477,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230094#00:00 第02集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230094#00:00 第03集</guid>
             <link>https://www.agemys.cc/detail/20230094</link>
             
             
