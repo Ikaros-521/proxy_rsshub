@@ -15,111 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 23 Apr 2023 16:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Apr 2023 16:38:16 GMT</lastBuildDate>
         <ttl>1</ttl>
-        
-        <item>
-            <title><![CDATA[天国大魔境]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230072.jpg" alt="天国大魔境">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">天国大魔境</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">Tengoku Daimakyou / Heavenly Delusion</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">石黒正数</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">Production I.G</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-04-01</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">战斗 悬疑 科幻</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">战斗 悬疑 科幻</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://tdm-anime.com/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230072#21:00 第04集</guid>
-            <link>https://www.agemys.cc/detail/20230072</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
         
         <item>
             <title><![CDATA[和山田谈场Lv999的恋爱]]></title>
@@ -214,6 +111,109 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20230069#01:00 第03集</guid>
             <link>https://www.agemys.cc/detail/20230069</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[天国大魔境]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230072.jpg" alt="天国大魔境">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">天国大魔境</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">Tengoku Daimakyou / Heavenly Delusion</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">石黒正数</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">Production I.G</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-04-01</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">战斗 悬疑 科幻</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">战斗 悬疑 科幻</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://tdm-anime.com/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230072#21:00 第04集</guid>
+            <link>https://www.agemys.cc/detail/20230072</link>
             
             
             
@@ -983,6 +983,129 @@
         </item>
         
         <item>
+            <title><![CDATA[超龙珠英雄UGM]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220213.jpg" alt="超龙珠英雄UGM">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">WEB</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">Super Dragon Ball ULTRA GOD MISSION</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">暂无</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">暂无</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">暂无</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2022-02-23</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">奇幻 冒险 热血 战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">奇幻 冒险 热血 战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">http://www.carddass.com/dbh/sdbh_bm/anime/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20180191">超龙珠英雄</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20200148">超龙珠英雄BM</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20150125">龙珠超</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20220443">龙珠超 超级英雄</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20180206">龙珠超剧场版 布罗利</a>
+        </li>
+        
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220213#第08集</guid>
+            <link>https://www.agemys.cc/detail/20220213</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[伸向天空！光之美少女]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -1119,129 +1242,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20230052#08:30 第12集</guid>
             <link>https://www.agemys.cc/detail/20230052</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[超龙珠英雄UGM]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220213.jpg" alt="超龙珠英雄UGM">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">WEB</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">Super Dragon Ball ULTRA GOD MISSION</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">暂无</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">暂无</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">暂无</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2022-02-23</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">奇幻 冒险 热血 战斗</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">奇幻 冒险 热血 战斗</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">http://www.carddass.com/dbh/sdbh_bm/anime/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20180191">超龙珠英雄</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200148">超龙珠英雄BM</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20150125">龙珠超</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20220443">龙珠超 超级英雄</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20180206">龙珠超剧场版 布罗利</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220213#第08集</guid>
-            <link>https://www.agemys.cc/detail/20220213</link>
             
             
             
@@ -1602,113 +1602,6 @@
         </item>
         
         <item>
-            <title><![CDATA[福冈英雄联盟～大都会警察～]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230099.jpg" alt="福冈英雄联盟～大都会警察～">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">ドゲンジャーズ～メトロポリス～</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">Dogengers～Metropolis～</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">暂缺</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">道奇队4制作执行委员会</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-04-09</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">战斗</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">战斗</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://dogengers.com/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20210393">英雄联盟：双城之战</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230099#10:30 第03集</guid>
-            <link>https://www.agemys.cc/detail/20230099</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
             <title><![CDATA[机动战士高达 水星的魔女 Season2]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -1860,6 +1753,113 @@
         </item>
         
         <item>
+            <title><![CDATA[福冈英雄联盟～大都会警察～]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230099.jpg" alt="福冈英雄联盟～大都会警察～">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">ドゲンジャーズ～メトロポリス～</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">Dogengers～Metropolis～</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">暂缺</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">道奇队4制作执行委员会</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-04-09</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://dogengers.com/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20210393">英雄联盟：双城之战</a>
+        </li>
+        
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230099#10:30 第03集</guid>
+            <link>https://www.agemys.cc/detail/20230099</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[异世界一击无双姐姐]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -1952,109 +1952,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20220424#21:30 第3集</guid>
             <link>https://www.agemys.cc/detail/20220424</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[世界巨星]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230075.jpg" alt="世界巨星">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">ワールドダイスター</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">World Dai Star</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">Sirius</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">ラルケ</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-04-09</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">百合</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">百合</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://world-dai-star.com/anime/</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230075#22:00 第02集</guid>
-            <link>https://www.agemys.cc/detail/20230075</link>
             
             
             
@@ -2169,6 +2066,109 @@
         </item>
         
         <item>
+            <title><![CDATA[世界巨星]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230075.jpg" alt="世界巨星">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">ワールドダイスター</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">World Dai Star</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">Sirius</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">ラルケ</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-04-09</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">百合</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">百合</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://world-dai-star.com/anime/</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230075#22:00 第02集</guid>
+            <link>https://www.agemys.cc/detail/20230075</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[转生贵族的异世界冒险录～不知自重的诸神的使徒～]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -2261,109 +2261,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20230013#20:30 第4集</guid>
             <link>https://www.agemys.cc/detail/20230013</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[向涟苍士献上纯洁]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230094.jpg" alt="向涟苍士献上纯洁">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">漣蒼士に処女を捧ぐ</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">漣蒼士に処女を捧ぐ ～さあ、じっくり愛でましょうか / 為漣蒼士獻上處女</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">暂缺</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">暂缺</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-04-02</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">爱情</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">爱情</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">https://sazanami.af-original.com</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230094#00:00 第03集</guid>
-            <link>https://www.agemys.cc/detail/20230094</link>
             
             
             
@@ -2490,6 +2387,109 @@
         </item>
         
         <item>
+            <title><![CDATA[向涟苍士献上纯洁]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230094.jpg" alt="向涟苍士献上纯洁">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">漣蒼士に処女を捧ぐ</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">漣蒼士に処女を捧ぐ ～さあ、じっくり愛でましょうか / 為漣蒼士獻上處女</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">暂缺</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">暂缺</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-04-02</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">爱情</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">爱情</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://sazanami.af-original.com</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230094#00:00 第03集</guid>
+            <link>https://www.agemys.cc/detail/20230094</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[我家的英雄]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -2593,6 +2593,137 @@
         </item>
         
         <item>
+            <title><![CDATA[鬼灭之刃 第三季(锻刀村篇)]]></title>
+            <description><![CDATA[<div class="baseblock">
+            <div class="blockcontent" style="position: relative;">
+              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20220203.jpg" alt="鬼灭之刃 第三季(锻刀村篇)">
+              
+              <!-- 收藏 -->
+              <style>
+                .collect_add {
+                  border: 1px solid #E00;
+                  display: inline-block;
+                  border-radius: 3px;
+                  padding: 2px 4px 2px 1px;
+                  position: absolute;
+                  right: 5%;
+                  bottom: 6%;
+                }
+                .collect_add a {
+                  color: #E00;
+                  text-decoration: none;
+                  font-weight: bold;
+                }
+              </style>
+              
+              <div class="collect_add">
+                <a href="javascript:on_collect_add();">+收藏</a>
+              </div>
+
+
+
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              
+    <div class="baseblock2">
+        <div class="blocktitle detail_title1">基本信息：</div>
+        <ul class="blockcontent">
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">地区：</span>
+                <span class="detail_imform_value">日本</span>
+                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
+            </li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">动画种类：</span>
+                <span class="detail_imform_value">TV</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原版名称：</span>
+                <span class="detail_imform_value">鬼滅の刃 刀鍛冶の里編</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">其它名称：</span>
+                <span class="detail_imform_value">鬼灭之刃 刀匠村篇</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">原作：</span>
+                <span class="detail_imform_value">吾峠呼世晴</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">制作公司：</span>
+                <span class="detail_imform_value">ufotable</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">首播时间：</span>
+                <span class="detail_imform_value">2023-04-09</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">播放状态：</span>
+                <span class="detail_imform_value">连载</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">剧情类型：</span>
+                <span class="detail_imform_value">奇幻 热血 战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">标签：</span>
+                <span class="detail_imform_value">奇幻 热血 战斗</span></li>
+            <li class="detail_imform_kv">
+                <span class="detail_imform_tag">官方网站：</span>
+                <span class="detail_imform_value">https://kimetsu.com/anime/katanakajinosatohen</span></li>
+        </ul>
+    </div>
+
+            </div>
+          </div>
+          <div class="baseblock">
+            <div class="blockcontent">
+              <div class="baseblock2">
+                <div class="blocktitle detail_title1">相关动画：</div>
+                <ul class="blockcontent">
+                  
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20190026">鬼灭之刃</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20210372">鬼灭之刃 无限列车篇(TV版)</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20230098">鬼灭之刃 游郭篇 特別编集版</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20210098">鬼灭之刃 第二季(游郭篇)</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20200006">鬼灭之刃剧场版 无限列车篇</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20200369">鬼灭之刃特别编集版 柱合会议・蝶屋敷篇</a>
+        </li>
+        
+        <li class="relates_series">
+            <a href="https://www.agemys.cc/detail/20210097">鬼灭学园 情人节篇</a>
+        </li>
+        
+                </ul>
+              </div>
+            </div>
+          </div>
+        ]]></description>
+            
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220203#22:15 第03集</guid>
+            <link>https://www.agemys.cc/detail/20220203</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
+        
+        <item>
             <title><![CDATA[赘婿]]></title>
             <description><![CDATA[<div class="baseblock">
             <div class="blockcontent" style="position: relative;">
@@ -2685,173 +2816,6 @@
             
             <guid isPermaLink="false">https://www.agemys.cc/detail/20230100#第02集</guid>
             <link>https://www.agemys.cc/detail/20230100</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[奥特曼 新世代之星]]></title>
-            <description><![CDATA[<div class="baseblock">
-            <div class="blockcontent" style="position: relative;">
-              <img referrerpolicy="no-referrer" class="poster" width="256px" height="356px" src="https://cdn.aqdstatic.com:966/age/20230050.jpg" alt="奥特曼 新世代之星">
-              
-              <!-- 收藏 -->
-              <style>
-                .collect_add {
-                  border: 1px solid #E00;
-                  display: inline-block;
-                  border-radius: 3px;
-                  padding: 2px 4px 2px 1px;
-                  position: absolute;
-                  right: 5%;
-                  bottom: 6%;
-                }
-                .collect_add a {
-                  color: #E00;
-                  text-decoration: none;
-                  font-weight: bold;
-                }
-              </style>
-              
-              <div class="collect_add">
-                <a href="javascript:on_collect_add();">+收藏</a>
-              </div>
-
-
-
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              
-    <div class="baseblock2">
-        <div class="blocktitle detail_title1">基本信息：</div>
-        <ul class="blockcontent">
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">地区：</span>
-                <span class="detail_imform_value">日本</span>
-                <a class="detail_imform_show_full" href="javascript:detail_show_full();">&lt;&lt;展开</a>
-            </li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">动画种类：</span>
-                <span class="detail_imform_value">TV</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原版名称：</span>
-                <span class="detail_imform_value">超人 新生代全明星</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">其它名称：</span>
-                <span class="detail_imform_value">Ultraman New Generation Stars</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">原作：</span>
-                <span class="detail_imform_value">暂缺</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">制作公司：</span>
-                <span class="detail_imform_value">暂缺</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">首播时间：</span>
-                <span class="detail_imform_value">2023-01-28</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">播放状态：</span>
-                <span class="detail_imform_value">连载</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">剧情类型：</span>
-                <span class="detail_imform_value">机战</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">标签：</span>
-                <span class="detail_imform_value">机战</span></li>
-            <li class="detail_imform_kv">
-                <span class="detail_imform_tag">官方网站：</span>
-                <span class="detail_imform_value">暂缺</span></li>
-        </ul>
-    </div>
-
-            </div>
-          </div>
-          <div class="baseblock">
-            <div class="blockcontent">
-              <div class="baseblock2">
-                <div class="blocktitle detail_title1">相关动画：</div>
-                <ul class="blockcontent">
-                  
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200113">奥特英雄传 赛罗与捷德</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20210050">奥特英雄传泽塔 英雄之路 日语版</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200360">奥特银河格斗 巨大阴谋</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20220278">奥特银河格斗：命运的冲突</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20190350">奥特银河格斗：新世代英雄</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20220373">德凯奥特曼</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20220532">新·奥特曼</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20190132">机动奥特曼</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200262">机动奥特曼 第二季</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20190226">泰迦奥特曼</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200296">泰迦奥特曼剧场版 新生代之巅 普通话版</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200256">泽塔奥特曼</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20210277">特利迦奥特曼</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20220219">特利迦奥特曼 Episode Z</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20000027">盖亚奥特曼</a>
-        </li>
-        
-        <li class="relates_series">
-            <a href="https://www.agemys.cc/detail/20200272">迪迦奥特曼</a>
-        </li>
-        
-                </ul>
-              </div>
-            </div>
-          </div>
-        ]]></description>
-            
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230050#23:00 第13集</guid>
-            <link>https://www.agemys.cc/detail/20230050</link>
             
             
             
