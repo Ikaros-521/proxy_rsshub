@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 30 Apr 2023 06:00:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 06:19:54 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[demucs]]></title>
+            <description><![CDATA[Code for the paper Hybrid Spectrogram and Waveform Source Separation]]></description>
+            <pubDate>Sun, 30 Apr 2023 06:16:08 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/demucs</guid>
+            <link>https://github.com/Ikaros-521/demucs</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[MiniGPT-4]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sun, 01 Jan 2023 15:22:27 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/LotteryAutoScript</guid>
             <link>https://github.com/Ikaros-521/LotteryAutoScript</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot-plugin-bangumi-search]]></title>
-            <description><![CDATA[a nonebot2 plugin to help you search anime on bgm.tv and return some information to you]]></description>
-            <pubDate>Tue, 27 Dec 2022 06:03:52 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-bangumi-search</guid>
-            <link>https://github.com/Ikaros-521/nonebot-plugin-bangumi-search</link>
             
             
             
