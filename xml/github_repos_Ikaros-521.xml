@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 30 Apr 2023 04:40:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Apr 2023 04:47:48 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[MiniGPT-4]]></title>
+            <description><![CDATA[MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models]]></description>
+            <pubDate>Sun, 30 Apr 2023 04:42:27 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/MiniGPT-4</guid>
+            <link>https://github.com/Ikaros-521/MiniGPT-4</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Meifu_Page]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Tue, 27 Dec 2022 06:03:52 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-bangumi-search</guid>
             <link>https://github.com/Ikaros-521/nonebot-plugin-bangumi-search</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot-plugin-qrcode]]></title>
-            <description><![CDATA[qq聊天二维码插件]]></description>
-            <pubDate>Tue, 27 Dec 2022 05:53:22 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-qrcode</guid>
-            <link>https://github.com/Ikaros-521/nonebot-plugin-qrcode</link>
             
             
             
