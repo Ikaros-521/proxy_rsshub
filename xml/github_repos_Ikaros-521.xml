@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 02 May 2023 12:48:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 13:02:41 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[awesome-chatgpt-prompts-zh]]></title>
+            <description><![CDATA[ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。]]></description>
+            <pubDate>Tue, 02 May 2023 12:58:15 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/awesome-chatgpt-prompts-zh</guid>
+            <link>https://github.com/Ikaros-521/awesome-chatgpt-prompts-zh</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[demucs]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Tue, 03 Jan 2023 09:18:19 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/SMSBoom</guid>
             <link>https://github.com/Ikaros-521/SMSBoom</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[LotteryAutoScript]]></title>
-            <description><![CDATA[Bili动态抽奖助手]]></description>
-            <pubDate>Sun, 01 Jan 2023 15:22:27 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/LotteryAutoScript</guid>
-            <link>https://github.com/Ikaros-521/LotteryAutoScript</link>
             
             
             
