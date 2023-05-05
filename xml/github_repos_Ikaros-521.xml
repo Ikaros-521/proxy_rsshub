@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 05 May 2023 15:44:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 15:51:41 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_claude]]></title>
+            <description><![CDATA[适用于nonebot2 v11的基于claude的大语言模型聊天bot插件]]></description>
+            <pubDate>Fri, 05 May 2023 15:48:24 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_claude</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_claude</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[chatglm_finetuning]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Fri, 20 Jan 2023 10:06:28 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/tampermonkey_scripts</guid>
             <link>https://github.com/Ikaros-521/tampermonkey_scripts</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Y2B]]></title>
-            <description><![CDATA[把油管上的视频转投到哔哩哔哩，支持CC字幕]]></description>
-            <pubDate>Mon, 09 Jan 2023 12:32:04 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/Y2B</guid>
-            <link>https://github.com/Ikaros-521/Y2B</link>
             
             
             
