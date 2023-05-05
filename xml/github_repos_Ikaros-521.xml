@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 05 May 2023 06:43:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 May 2023 06:50:05 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[chatglm_finetuning]]></title>
+            <description><![CDATA[chatglm 6b finetuning and alpaca finetuning]]></description>
+            <pubDate>Fri, 05 May 2023 06:46:25 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/chatglm_finetuning</guid>
+            <link>https://github.com/Ikaros-521/chatglm_finetuning</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[awesome-chatgpt-prompts-zh]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Mon, 09 Jan 2023 12:32:04 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/Y2B</guid>
             <link>https://github.com/Ikaros-521/Y2B</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[SMSBoom]]></title>
-            <description><![CDATA[短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！]]></description>
-            <pubDate>Tue, 03 Jan 2023 09:18:19 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/SMSBoom</guid>
-            <link>https://github.com/Ikaros-521/SMSBoom</link>
             
             
             
