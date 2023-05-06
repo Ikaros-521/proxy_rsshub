@@ -15,12 +15,12 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 06 May 2023 15:34:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 May 2023 15:40:52 GMT</lastBuildDate>
         <ttl>1</ttl>
         
         <item>
             <title><![CDATA[Midjourney_api]]></title>
-            <description><![CDATA[unofficial Midjourney API]]></description>
+            <description><![CDATA[非官方Midjourney API]]></description>
             <pubDate>Sat, 06 May 2023 14:10:12 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/Midjourney_api</guid>
             <link>https://github.com/Ikaros-521/Midjourney_api</link>
