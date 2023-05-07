@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 07 May 2023 11:57:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 May 2023 12:19:21 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[WeixinBot]]></title>
+            <description><![CDATA[网页版微信API，包含终端版微信及微信机器人]]></description>
+            <pubDate>Sun, 07 May 2023 12:15:10 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/WeixinBot</guid>
+            <link>https://github.com/Ikaros-521/WeixinBot</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[finetune_dataset_maker]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 11 Feb 2023 06:28:31 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/geetest-validator</guid>
             <link>https://github.com/Ikaros-521/geetest-validator</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[alist]]></title>
-            <description><![CDATA[🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。]]></description>
-            <pubDate>Tue, 07 Feb 2023 00:46:38 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/alist</guid>
-            <link>https://github.com/Ikaros-521/alist</link>
             
             
             
