@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 08 May 2023 13:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 May 2023 13:28:33 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_midjourney]]></title>
+            <description><![CDATA[适用于nonebot2 v11的基于midjourney的绘图插件]]></description>
+            <pubDate>Mon, 08 May 2023 13:23:53 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_midjourney</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_midjourney</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[WeixinBot]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 11 Feb 2023 15:56:24 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_BitTorrent</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_BitTorrent</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[geetest-validator]]></title>
-            <description><![CDATA[极验手动验证器]]></description>
-            <pubDate>Sat, 11 Feb 2023 06:28:31 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/geetest-validator</guid>
-            <link>https://github.com/Ikaros-521/geetest-validator</link>
             
             
             
