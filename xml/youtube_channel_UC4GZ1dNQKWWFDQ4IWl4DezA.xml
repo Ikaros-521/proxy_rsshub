@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[黑男邱比特 - YouTube]]></title>
         <link>https://www.youtube.com/channel/UC4GZ1dNQKWWFDQ4IWl4DezA</link>
-        <atom:link href="https://rsshub.rssforever.com/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/youtube/channel/UC4GZ1dNQKWWFDQ4IWl4DezA" rel="self" type="application/rss+xml" />
         <description><![CDATA[YouTube channel 黑男邱比特 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 10 May 2023 04:29:08 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Wed, 10 May 2023 04:35:48 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[#2街頭更衣室：鯉魚紋身女孩挑戰15秒內不走光換比基尼]]></title>
