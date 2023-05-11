@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 11 May 2023 06:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 06:27:00 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[midjourney-ui-1]]></title>
+            <description><![CDATA[Midjourney UI is an open source AI painting UI based on Midjourney]]></description>
+            <pubDate>Thu, 11 May 2023 06:26:28 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/midjourney-ui-1</guid>
+            <link>https://github.com/Ikaros-521/midjourney-ui-1</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[nonebot_plugin_midjourney]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sun, 19 Feb 2023 11:06:31 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/VITS-fast-fine-tuning</guid>
             <link>https://github.com/Ikaros-521/VITS-fast-fine-tuning</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot_plugin_BitTorrent]]></title>
-            <description><![CDATA[No description]]></description>
-            <pubDate>Sat, 11 Feb 2023 15:56:24 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_BitTorrent</guid>
-            <link>https://github.com/Ikaros-521/nonebot_plugin_BitTorrent</link>
             
             
             
