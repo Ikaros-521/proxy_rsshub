@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 11 May 2023 14:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 14:59:55 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[chatgpt-web]]></title>
+            <description><![CDATA[用 Express 和  Vue3 搭建的 ChatGPT 演示网页]]></description>
+            <pubDate>Thu, 11 May 2023 14:55:20 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/chatgpt-web</guid>
+            <link>https://github.com/Ikaros-521/chatgpt-web</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[midjourney-ui-1]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Wed, 22 Feb 2023 00:46:23 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-template</guid>
             <link>https://github.com/Ikaros-521/nonebot-plugin-template</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[VITS-fast-fine-tuning]]></title>
-            <description><![CDATA[This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and any-to-any voice conversion]]></description>
-            <pubDate>Sun, 19 Feb 2023 11:06:31 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/VITS-fast-fine-tuning</guid>
-            <link>https://github.com/Ikaros-521/VITS-fast-fine-tuning</link>
             
             
             
