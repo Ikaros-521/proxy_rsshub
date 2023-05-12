@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 12 May 2023 12:00:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 12:30:00 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[AILink]]></title>
+            <description><![CDATA[ChatGPT4，Midjourney绘图，轻应用模块，用户登录注册，邀请激励，在线支付，角色扮演，实时连续对话网页版，查询余额，自定义Key，代码显示高亮]]></description>
+            <pubDate>Fri, 12 May 2023 12:18:13 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/AILink</guid>
+            <link>https://github.com/Ikaros-521/AILink</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[chatgpt-web]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Wed, 22 Feb 2023 01:56:54 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_random_stereotypes</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_random_stereotypes</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot-plugin-template]]></title>
-            <description><![CDATA[nonebot2 插件模板库]]></description>
-            <pubDate>Wed, 22 Feb 2023 00:46:23 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot-plugin-template</guid>
-            <link>https://github.com/Ikaros-521/nonebot-plugin-template</link>
             
             
             
