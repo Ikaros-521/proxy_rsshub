@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 13 May 2023 14:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 May 2023 14:33:37 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[langchain-ChatGLM]]></title>
+            <description><![CDATA[langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答]]></description>
+            <pubDate>Sat, 13 May 2023 14:27:42 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/langchain-ChatGLM</guid>
+            <link>https://github.com/Ikaros-521/langchain-ChatGLM</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[langchain]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Wed, 08 Mar 2023 09:04:55 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/audio_multiple_in_one-with_interval</guid>
             <link>https://github.com/Ikaros-521/audio_multiple_in_one-with_interval</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[bilibili-API-collect]]></title>
-            <description><![CDATA[哔哩哔哩-API收集整理【不断更新中....】]]></description>
-            <pubDate>Wed, 08 Mar 2023 01:42:37 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/bilibili-API-collect</guid>
-            <link>https://github.com/Ikaros-521/bilibili-API-collect</link>
             
             
             
