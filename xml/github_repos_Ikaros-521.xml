@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Wed, 17 May 2023 10:54:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 May 2023 11:00:47 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[FastChat]]></title>
+            <description><![CDATA[一个用于培训、服务和评估大型语言的开放平台。为Vicuna和FastChat-T5发布。An open platform for training, serving, and evaluating large languages. Release repo for Vicuna and FastChat-T5.]]></description>
+            <pubDate>Wed, 17 May 2023 10:56:52 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/FastChat</guid>
+            <link>https://github.com/Ikaros-521/FastChat</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Linly]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 18 Mar 2023 16:02:18 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_template_plugin</guid>
             <link>https://github.com/Ikaros-521/nonebot_template_plugin</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[so-vits-svc]]></title>
-            <description><![CDATA[SoftVC VITS Singing Voice Conversion]]></description>
-            <pubDate>Wed, 15 Mar 2023 09:56:05 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/so-vits-svc</guid>
-            <link>https://github.com/Ikaros-521/so-vits-svc</link>
             
             
             
