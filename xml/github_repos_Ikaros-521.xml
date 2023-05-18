@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 18 May 2023 13:40:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 13:47:32 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[chatbot-ui]]></title>
+            <description><![CDATA[An open source ChatGPT UI.]]></description>
+            <pubDate>Thu, 18 May 2023 13:43:03 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/chatbot-ui</guid>
+            <link>https://github.com/Ikaros-521/chatbot-ui</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[FastChat]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Tue, 21 Mar 2023 01:50:03 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/Bilibili-AutoRedPacket</guid>
             <link>https://github.com/Ikaros-521/Bilibili-AutoRedPacket</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[nonebot_template_plugin]]></title>
-            <description><![CDATA[基于nonebot2的v11的插件编写模板（仅供参考，并不全面。此模板仅适用于0基础但具有一定理解力的小白、有python基础的新人、有其他编程经验的新人）]]></description>
-            <pubDate>Sat, 18 Mar 2023 16:02:18 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_template_plugin</guid>
-            <link>https://github.com/Ikaros-521/nonebot_template_plugin</link>
             
             
             
