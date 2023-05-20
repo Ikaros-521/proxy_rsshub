@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 20 May 2023 21:23:45 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Sat, 20 May 2023 21:31:48 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[女神的露天咖啡厅]]></title>
@@ -866,7 +866,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230072#21:00 第08集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230072#21:00 第8集</guid>
             <link>https://www.agemys.cc/detail/20230072</link>
             
             
@@ -1976,7 +1976,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230082#21:30 第07集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230082#21:30 第7集</guid>
             <link>https://www.agemys.cc/detail/20230082</link>
             
             
@@ -2079,7 +2079,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220424#21:30 第07集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220424#21:30 第7集</guid>
             <link>https://www.agemys.cc/detail/20220424</link>
             
             
@@ -2404,7 +2404,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220126#22:30 第06集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220126#22:30 第07集</guid>
             <link>https://www.agemys.cc/detail/20220126</link>
             
             
@@ -2507,7 +2507,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220284#01:00 第06集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220284#01:00 第07集</guid>
             <link>https://www.agemys.cc/detail/20220284</link>
             
             
@@ -2614,7 +2614,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230079#01:25 第05集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230079#01:25 第06集</guid>
             <link>https://www.agemys.cc/detail/20230079</link>
             
             
