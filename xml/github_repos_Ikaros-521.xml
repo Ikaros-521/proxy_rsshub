@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 20 May 2023 05:28:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 05:35:32 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[stable-diffusion-webui]]></title>
+            <description><![CDATA[Stable Diffusion web UI]]></description>
+            <pubDate>Sat, 20 May 2023 05:34:57 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/stable-diffusion-webui</guid>
+            <link>https://github.com/Ikaros-521/stable-diffusion-webui</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[chatbot-ui]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Wed, 22 Mar 2023 12:52:30 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/Unify-Sign</guid>
             <link>https://github.com/Ikaros-521/Unify-Sign</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Bilibili-AutoRedPacket]]></title>
-            <description><![CDATA[使用Playwright全自动化抢B站直播间红包，高效毛取！]]></description>
-            <pubDate>Tue, 21 Mar 2023 01:50:03 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/Bilibili-AutoRedPacket</guid>
-            <link>https://github.com/Ikaros-521/Bilibili-AutoRedPacket</link>
             
             
             
