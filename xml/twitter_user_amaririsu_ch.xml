@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
         <link>https://twitter.com/amaririsu_ch</link>
-        <atom:link href="https://rsshub.app/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/amaririsu_ch" rel="self" type="application/rss+xml" />
         <description><![CDATA[魔界在住一般社畜スライム。bilibiliで気まぐれに配信している。座右の銘は天上天下唯我独尊★ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -16,13 +16,13 @@
         <language>zh-cn</language>
         
         <image>
-            <url>https://pbs.twimg.com/profile_images/1584821918653632512/f7-M43fk.jpg</url>
+            <url>http://pbs.twimg.com/profile_images/1584821918653632512/f7-M43fk_normal.jpg</url>
             <title><![CDATA[Twitter @アマリリスちゃんねーる]]></title>
             <link>https://twitter.com/amaririsu_ch</link>
         </image>
         
-        <lastBuildDate>Sun, 21 May 2023 14:20:49 GMT</lastBuildDate>
-        <ttl>120</ttl>
+        <lastBuildDate>Sun, 21 May 2023 14:26:53 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[気圧と仕事周りでちょっと死んでる！ 色々遅れてマジごめん許せサスケこの花京院の魂を捧げるから許してありがとう]]></title>
@@ -122,7 +122,7 @@
         
         <item>
             <title><![CDATA[メモメモ✍️]]></title>
-            <description><![CDATA[メモメモ✍️<div class="rsshub-quote"><br><br>replica.B🦠歌みた聴いて！: Discordで通話繋いでコラボ配信してるみんな！<br>実はサーバーを立てなくても画面にピコピコを表示できるって知ってましたか？<br>ブラウザソースのURLに<br>https://streamkit.discord.com/overlay/voice/@me/通話のID<br>を入れるだけ！<br>通話のIDの調べ方も簡単なので突発コラボのときなどに是非やってみて！ https://t.co/FBxZGjAUZu<br><br><img style="" src="https://pbs.twimg.com/media/Fvhnlw6acAE3CBm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FvhnmuMacAMvTz5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"></div>]]></description>
+            <description><![CDATA[メモメモ✍️<br><br>replica.B🦠歌みた聴いて！: Discordで通話繋いでコラボ配信してるみんな！<br>実はサーバーを立てなくても画面にピコピコを表示できるって知ってましたか？<br>ブラウザソースのURLに<br><br>を入れるだけ！<br>通話のIDの調べ方も簡単なので突発コラボのときなどに是非やってみて！<br><br><img style="" src="https://pbs.twimg.com/media/Fvhnlw6acAE3CBm?format=jpg&amp;name=orig" referrerpolicy="no-referrer"><br><img style="" src="https://pbs.twimg.com/media/FvhnmuMacAMvTz5?format=jpg&amp;name=orig" referrerpolicy="no-referrer"> <a href="https://streamkit.discord.com/overlay/voice/@me/" target="_blank" rel="noopener noreferrer">https://streamkit.discord.com/overlay/voice/@me/</a>]]></description>
             <pubDate>Mon, 08 May 2023 14:45:24 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1655584692429570052</guid>
             <link>https://twitter.com/amaririsu_ch/status/1655584692429570052</link>
@@ -137,8 +137,8 @@
         </item>
         
         <item>
-            <title><![CDATA[イッヌ🐶 https://t.co/JMghP7GHoj]]></title>
-            <description><![CDATA[イッヌ🐶 https://t.co/JMghP7GHoj<br><img style="" src="https://pbs.twimg.com/media/FvhvKEIaMAE2a57?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[イッヌ🐶]]></title>
+            <description><![CDATA[イッヌ🐶<br><img style="" src="https://pbs.twimg.com/media/FvhvKEIaMAE2a57?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sun, 07 May 2023 12:57:22 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1655195116431380485</guid>
             <link>https://twitter.com/amaririsu_ch/status/1655195116431380485</link>
@@ -169,8 +169,8 @@
         </item>
         
         <item>
-            <title><![CDATA[これ見てきた👀 https://t.co/AL2FXzjAWM]]></title>
-            <description><![CDATA[これ見てきた👀 https://t.co/AL2FXzjAWM<br><img style="" src="https://pbs.twimg.com/media/Fvcz0UxakAA-ALr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[これ見てきた👀]]></title>
+            <description><![CDATA[これ見てきた👀<br><img style="" src="https://pbs.twimg.com/media/Fvcz0UxakAA-ALr?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 06 May 2023 13:59:33 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1654848378516406277</guid>
             <link>https://twitter.com/amaririsu_ch/status/1654848378516406277</link>
@@ -186,7 +186,7 @@
         
         <item>
             <title><![CDATA[既視感エグいな]]></title>
-            <description><![CDATA[既視感エグいな<div class="rsshub-quote"><br><br>ぜっと姫/B站Vtuber: リリスにコラボのお誘いの連絡したんですけど返事がなくって、本人のツイッターみたら旅行中でした。<br>前にもこんなことがあったような気がする<br></div>]]></description>
+            <description><![CDATA[既視感エグいな<br><br>ぜっと姫/B站Vtuber: リリスにコラボのお誘いの連絡したんですけど返事がなくって、本人のツイッターみたら旅行中でした。<br>前にもこんなことがあったような気がする<br>]]></description>
             <pubDate>Sat, 06 May 2023 13:58:09 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1654848024236134403</guid>
             <link>https://twitter.com/amaririsu_ch/status/1654848024236134403</link>
@@ -233,8 +233,8 @@
         </item>
         
         <item>
-            <title><![CDATA[クラゲと海藻とちっちゃい魚たち！ https://t.co/csQa9dwZDW]]></title>
-            <description><![CDATA[クラゲと海藻とちっちゃい魚たち！ https://t.co/csQa9dwZDW<br><img style="" src="https://pbs.twimg.com/media/FvaV5OHacAANUiH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[クラゲと海藻とちっちゃい魚たち！]]></title>
+            <description><![CDATA[クラゲと海藻とちっちゃい魚たち！<br><img style="" src="https://pbs.twimg.com/media/FvaV5OHacAANUiH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Sat, 06 May 2023 02:29:33 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1654674732782895104</guid>
             <link>https://twitter.com/amaririsu_ch/status/1654674732782895104</link>
@@ -249,8 +249,8 @@
         </item>
         
         <item>
-            <title><![CDATA[ハートの岩！ https://t.co/PkvHp2fcZJ]]></title>
-            <description><![CDATA[ハートの岩！ https://t.co/PkvHp2fcZJ<br><img style="" src="https://pbs.twimg.com/media/FvXQY2ZaEAABXHH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[ハートの岩！]]></title>
+            <description><![CDATA[ハートの岩！<br><img style="" src="https://pbs.twimg.com/media/FvXQY2ZaEAABXHH?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Fri, 05 May 2023 12:06:45 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1654457601302888449</guid>
             <link>https://twitter.com/amaririsu_ch/status/1654457601302888449</link>
@@ -265,8 +265,8 @@
         </item>
         
         <item>
-            <title><![CDATA[海！ https://t.co/3hk0U9VWsV]]></title>
-            <description><![CDATA[海！ https://t.co/3hk0U9VWsV<br><img style="" src="https://pbs.twimg.com/media/FvUdXajaQAAtOXM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[海！]]></title>
+            <description><![CDATA[海！<br><img style="" src="https://pbs.twimg.com/media/FvUdXajaQAAtOXM?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Thu, 04 May 2023 23:04:38 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1654260775144546307</guid>
             <link>https://twitter.com/amaririsu_ch/status/1654260775144546307</link>
@@ -329,8 +329,8 @@
         </item>
         
         <item>
-            <title><![CDATA[里芋と鶏肉をいい感じに煮たやつ。 僕と同居人の分です、DDたちの分は無いです。 よろしく✋ https://t.co/qNsQ1VWjWS]]></title>
-            <description><![CDATA[里芋と鶏肉をいい感じに煮たやつ。<br>僕と同居人の分です、DDたちの分は無いです。<br>よろしく✋ https://t.co/qNsQ1VWjWS<br><img style="" src="https://pbs.twimg.com/media/FuozE86agAAA8wS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[里芋と鶏肉をいい感じに煮たやつ。 僕と同居人の分です、DDたちの分は無いです。 よろしく✋]]></title>
+            <description><![CDATA[里芋と鶏肉をいい感じに煮たやつ。<br>僕と同居人の分です、DDたちの分は無いです。<br>よろしく✋<br><img style="" src="https://pbs.twimg.com/media/FuozE86agAAA8wS?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Wed, 26 Apr 2023 11:36:06 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/amaririsu_ch/status/1651188399234252806</guid>
             <link>https://twitter.com/amaririsu_ch/status/1651188399234252806</link>
