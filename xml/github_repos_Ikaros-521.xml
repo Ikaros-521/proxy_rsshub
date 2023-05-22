@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Mon, 22 May 2023 14:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 14:33:25 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[VisualGLM-6B]]></title>
+            <description><![CDATA[Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型]]></description>
+            <pubDate>Mon, 22 May 2023 14:28:08 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/VisualGLM-6B</guid>
+            <link>https://github.com/Ikaros-521/VisualGLM-6B</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[stable-diffusion-webui]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Fri, 31 Mar 2023 11:10:14 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/AI-Vtuber</guid>
             <link>https://github.com/Ikaros-521/AI-Vtuber</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Unify-Sign]]></title>
-            <description><![CDATA[聚合签到-薅羊毛-AutoJS]]></description>
-            <pubDate>Wed, 22 Mar 2023 12:52:30 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/Unify-Sign</guid>
-            <link>https://github.com/Ikaros-521/Unify-Sign</link>
             
             
             
