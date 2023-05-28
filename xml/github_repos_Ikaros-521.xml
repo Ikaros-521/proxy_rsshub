@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 28 May 2023 04:32:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 May 2023 04:39:47 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_random_draw]]></title>
+            <description><![CDATA[NoneBot 随机抽取设定内容 插件。通过添加各种想要抽取的内容，最后进行随机抽取。]]></description>
+            <pubDate>Sun, 28 May 2023 04:35:05 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_random_draw</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_random_draw</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[douyin-live]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 15 Apr 2023 16:15:02 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/BibiGPT</guid>
             <link>https://github.com/Ikaros-521/BibiGPT</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[AI-Vtuber-Kun]]></title>
-            <description><![CDATA[AI Vtuber Kun是一个由OpenAI驱动的虚拟主播，可以在Bilibili直播中与观众实时互动。它使用自然语言处理和文本转语音技术生成对观众问题的回答。]]></description>
-            <pubDate>Mon, 10 Apr 2023 07:42:17 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/AI-Vtuber-Kun</guid>
-            <link>https://github.com/Ikaros-521/AI-Vtuber-Kun</link>
             
             
             
