@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Ikaros-521's GitHub repositories]]></title>
         <link>https://github.com/Ikaros-521</link>
-        <atom:link href="https://rsshub/github/repos/Ikaros-521" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/github/repos/Ikaros-521" rel="self" type="application/rss+xml" />
         <description><![CDATA[Ikaros-521's GitHub repositories - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sun, 28 May 2023 04:39:47 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Sun, 28 May 2023 04:46:33 GMT</lastBuildDate>
+        <ttl>5</ttl>
+        
+        <item>
+            <title><![CDATA[nonebot_plugin_jx3_open_group]]></title>
+            <description><![CDATA[NoneBot 剑网3开团插件。在QQ进行开团，方便提前组队下本。]]></description>
+            <pubDate>Sun, 28 May 2023 04:44:01 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_jx3_open_group</guid>
+            <link>https://github.com/Ikaros-521/nonebot_plugin_jx3_open_group</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[nonebot_plugin_random_draw]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Tue, 18 Apr 2023 09:30:16 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/Auto-GPT</guid>
             <link>https://github.com/Ikaros-521/Auto-GPT</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[BibiGPT]]></title>
-            <description><![CDATA[BibiGPT · One-click summary for video &amp;  audio content: Bilibili | YouTube | Websites丨Podcasts | Meetings | Local files, etc. 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 &amp; 课代表)]]></description>
-            <pubDate>Sat, 15 Apr 2023 16:15:02 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/BibiGPT</guid>
-            <link>https://github.com/Ikaros-521/BibiGPT</link>
             
             
             
