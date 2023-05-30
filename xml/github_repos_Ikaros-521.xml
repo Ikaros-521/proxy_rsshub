@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Ikaros-521's GitHub repositories]]></title>
         <link>https://github.com/Ikaros-521</link>
-        <atom:link href="https://rsshub.rssforever.com/github/repos/Ikaros-521" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/github/repos/Ikaros-521" rel="self" type="application/rss+xml" />
         <description><![CDATA[Ikaros-521's GitHub repositories - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Tue, 30 May 2023 03:24:23 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 30 May 2023 03:30:47 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[couplet-clean-dataset]]></title>
+            <description><![CDATA[Chinese Couplets Dataset without vulgar words. 不包含敏感内容的对联数据集。]]></description>
+            <pubDate>Tue, 30 May 2023 03:26:01 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/couplet-clean-dataset</guid>
+            <link>https://github.com/Ikaros-521/couplet-clean-dataset</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[nonebot_plugin_jx3_open_group]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sat, 22 Apr 2023 15:55:47 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/Meifu_Page</guid>
             <link>https://github.com/Ikaros-521/Meifu_Page</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[Auto-GPT]]></title>
-            <description><![CDATA[An experimental open-source attempt to make GPT-4 fully autonomous.]]></description>
-            <pubDate>Tue, 18 Apr 2023 09:30:16 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/Auto-GPT</guid>
-            <link>https://github.com/Ikaros-521/Auto-GPT</link>
             
             
             
