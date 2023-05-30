@@ -6,7 +6,7 @@
     <channel>
         <title><![CDATA[Twitter @ゅゅぇ]]></title>
         <link>https://twitter.com/chii_nemui</link>
-        <atom:link href="https://rsshub.rssforever.com/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub/twitter/user/chii_nemui" rel="self" type="application/rss+xml" />
         <description><![CDATA[Twitter @ゅゅぇ - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -21,8 +21,8 @@
             <link>https://twitter.com/chii_nemui</link>
         </image>
         
-        <lastBuildDate>Tue, 30 May 2023 15:14:03 GMT</lastBuildDate>
-        <ttl>5</ttl>
+        <lastBuildDate>Tue, 30 May 2023 15:24:33 GMT</lastBuildDate>
+        <ttl>1</ttl>
         
         <item>
             <title><![CDATA[喜欢信，想要大家手写的信~💌]]></title>
@@ -89,8 +89,8 @@
         </item>
         
         <item>
-            <title><![CDATA[我可以承认这个蛋包饭的失败 https://t.co/iByEmk57d4]]></title>
-            <description><![CDATA[我可以承认这个蛋包饭的失败 https://t.co/iByEmk57d4<br><img style="" src="https://pbs.twimg.com/media/FxSmiBFaEAYDM5o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
+            <title><![CDATA[我可以承认这个蛋包饭的失败]]></title>
+            <description><![CDATA[我可以承认这个蛋包饭的失败<br><img style="" src="https://pbs.twimg.com/media/FxSmiBFaEAYDM5o?format=jpg&amp;name=orig" referrerpolicy="no-referrer">]]></description>
             <pubDate>Mon, 29 May 2023 10:56:39 GMT</pubDate>
             <guid isPermaLink="false">https://twitter.com/chii_nemui/status/1663137271409958913</guid>
             <link>https://twitter.com/chii_nemui/status/1663137271409958913</link>
