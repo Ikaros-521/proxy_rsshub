@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Thu, 01 Jun 2023 15:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Jun 2023 15:22:24 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[LangChainSummarize]]></title>
+            <description><![CDATA[LangChain相关的应用总结]]></description>
+            <pubDate>Thu, 01 Jun 2023 15:16:11 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/LangChainSummarize</guid>
+            <link>https://github.com/Ikaros-521/LangChainSummarize</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[UmaChat]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Sun, 30 Apr 2023 06:16:08 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/demucs</guid>
             <link>https://github.com/Ikaros-521/demucs</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[MiniGPT-4]]></title>
-            <description><![CDATA[MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models]]></description>
-            <pubDate>Sun, 30 Apr 2023 04:42:27 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/MiniGPT-4</guid>
-            <link>https://github.com/Ikaros-521/MiniGPT-4</link>
             
             
             
