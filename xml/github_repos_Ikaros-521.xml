@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 03 Jun 2023 14:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 14:43:01 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[PaddleNLP]]></title>
+            <description><![CDATA[👑 Easy-to-use and powerful NLP library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis and 🖼 Diffusion AIGC system etc.]]></description>
+            <pubDate>Sat, 03 Jun 2023 14:37:21 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/PaddleNLP</guid>
+            <link>https://github.com/Ikaros-521/PaddleNLP</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[Wav2Lip]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Fri, 05 May 2023 06:46:25 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/chatglm_finetuning</guid>
             <link>https://github.com/Ikaros-521/chatglm_finetuning</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[awesome-chatgpt-prompts-zh]]></title>
-            <description><![CDATA[ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。]]></description>
-            <pubDate>Tue, 02 May 2023 12:58:15 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/awesome-chatgpt-prompts-zh</guid>
-            <link>https://github.com/Ikaros-521/awesome-chatgpt-prompts-zh</link>
             
             
             
