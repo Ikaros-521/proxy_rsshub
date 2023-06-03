@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Sat, 03 Jun 2023 11:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jun 2023 12:22:51 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[Wav2Lip]]></title>
+            <description><![CDATA[This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. ]]></description>
+            <pubDate>Sat, 03 Jun 2023 12:10:18 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/Wav2Lip</guid>
+            <link>https://github.com/Ikaros-521/Wav2Lip</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[LangChainSummarize]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Tue, 02 May 2023 12:58:15 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/awesome-chatgpt-prompts-zh</guid>
             <link>https://github.com/Ikaros-521/awesome-chatgpt-prompts-zh</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[demucs]]></title>
-            <description><![CDATA[Code for the paper Hybrid Spectrogram and Waveform Source Separation]]></description>
-            <pubDate>Sun, 30 Apr 2023 06:16:08 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/demucs</guid>
-            <link>https://github.com/Ikaros-521/demucs</link>
             
             
             
