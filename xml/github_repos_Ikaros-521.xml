@@ -15,8 +15,24 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 09 Jun 2023 15:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 16:12:25 GMT</lastBuildDate>
         <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[langflow]]></title>
+            <description><![CDATA[⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.]]></description>
+            <pubDate>Fri, 09 Jun 2023 16:04:55 GMT</pubDate>
+            <guid isPermaLink="false">https://github.com/Ikaros-521/langflow</guid>
+            <link>https://github.com/Ikaros-521/langflow</link>
+            
+            
+            
+            
+            
+                
+            
+            
+        </item>
         
         <item>
             <title><![CDATA[PaddleNLP]]></title>
@@ -472,22 +488,6 @@
             <pubDate>Fri, 05 May 2023 15:48:24 GMT</pubDate>
             <guid isPermaLink="false">https://github.com/Ikaros-521/nonebot_plugin_claude</guid>
             <link>https://github.com/Ikaros-521/nonebot_plugin_claude</link>
-            
-            
-            
-            
-            
-                
-            
-            
-        </item>
-        
-        <item>
-            <title><![CDATA[chatglm_finetuning]]></title>
-            <description><![CDATA[chatglm 6b finetuning and alpaca finetuning]]></description>
-            <pubDate>Fri, 05 May 2023 06:46:25 GMT</pubDate>
-            <guid isPermaLink="false">https://github.com/Ikaros-521/chatglm_finetuning</guid>
-            <link>https://github.com/Ikaros-521/chatglm_finetuning</link>
             
             
             
