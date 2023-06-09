@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 
 >
     <channel>
         <title><![CDATA[最近更新动漫 - AGE动漫]]></title>
         <link>https://www.agemys.cc/update</link>
-        <atom:link href="https://rsshub/agefans/update" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/agefans/update" rel="self" type="application/rss+xml" />
         <description><![CDATA[最近更新动漫 - AGE动漫 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
         <generator>RSSHub</generator>
         <webMaster>i@diygod.me (DIYgod)</webMaster>
@@ -15,8 +15,8 @@
         
         <language>zh-cn</language>
         
-        <lastBuildDate>Fri, 09 Jun 2023 23:01:06 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Fri, 09 Jun 2023 23:16:01 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[勇者死了！]]></title>
@@ -747,7 +747,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20220087#01:05 第10集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20220087#01:05 第09集</guid>
             <link>https://www.agemys.cc/detail/20220087</link>
             
             
@@ -914,7 +914,7 @@
           </div>
         ]]></description>
             
-            <guid isPermaLink="false">https://www.agemys.cc/detail/20230050#23:00 第19集</guid>
+            <guid isPermaLink="false">https://www.agemys.cc/detail/20230050#23:00 第17集</guid>
             <link>https://www.agemys.cc/detail/20230050</link>
             
             
