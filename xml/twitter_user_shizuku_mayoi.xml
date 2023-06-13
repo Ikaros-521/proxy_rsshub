@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
 
 
 >
     <channel>
         <title><![CDATA[Twitter @間宵 雫☾☔@イラストレーター]]></title>
         <link>https://twitter.com/shizuku_mayoi</link>
-        <atom:link href="https://rsshub/twitter/user/shizuku_mayoi" rel="self" type="application/rss+xml" />
+        <atom:link href="https://rsshub.rssforever.com/twitter/user/shizuku_mayoi" rel="self" type="application/rss+xml" />
         <description><![CDATA[イラストレーター/Live2Dモデラー/セルフ受肉Vtuber
 
 推しマ ：☾☔
@@ -24,8 +24,8 @@
             <link>https://twitter.com/shizuku_mayoi</link>
         </image>
         
-        <lastBuildDate>Tue, 13 Jun 2023 05:29:41 GMT</lastBuildDate>
-        <ttl>1</ttl>
+        <lastBuildDate>Tue, 13 Jun 2023 05:36:44 GMT</lastBuildDate>
+        <ttl>5</ttl>
         
         <item>
             <title><![CDATA[Re @MCabiko あびんこお誕生日おめでとう🎉🎉🎉🎉]]></title>
