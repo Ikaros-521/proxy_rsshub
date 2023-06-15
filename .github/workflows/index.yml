@@ -22,7 +22,7 @@ jobs:
           python-version: 3.9
       - name: Install Python 3.9
         run: |
-          ln -s /home/runner/.pyenv/versions/3.9/bin/python3.9 /home/runner/work/proxy_rsshub/python 
+          ln -s /home/runner/.pyenv/versions/3.9/bin/python3.9 /usr/local/bin/python3.9 
           echo "PATH=$PATH:/home/runner/work/proxy_rsshub" >> $GITHUB_ENV  
       - name: Install dependencies
         uses: VaultVulp/action-pipenv@v2.0.1
