@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2 # Checking out the repo
+      - name: Set Python
+        run: |
+          echo "python=/usr/bin/python3.9" >> $GITHUB_ENV
       - name: Install dependecies
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
