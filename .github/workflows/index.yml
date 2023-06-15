@@ -27,6 +27,12 @@ jobs:
       - name: Set Pipenv Python
         run: |
           echo "PIPENV_PYTHON=/usr/local/bin/python3.9" >> $GITHUB_ENV
+      - name: Upgrade Pip
+        run: |
+          python3.9 -m pip install --upgrade pip  
+      - name: Install Pipenv
+        run: | 
+          python3.9 -m pip install pipenv
       - name: Install dependencies
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
