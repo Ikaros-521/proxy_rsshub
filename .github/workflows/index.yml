@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies 
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: install -d --python $python  
+          command: install -d
       - name: Python build
         # env:
         #   _file_changes: ${{ steps.file_changes.outputs.files }}
