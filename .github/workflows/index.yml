@@ -20,14 +20,16 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.9
+      - name: Set Python
+        run: |
+          echo "python=/usr/bin/python3.9" >> $GITHUB_ENV  
       - name: Install Python 3.9
         run: |
-          echo "ln -s /usr/bin/python3.9 /usr/bin/python3.9" > entrypoint.sh 
-          chmod +x entrypoint.sh
-      - name: Install dependencies 
+          ln -s /usr/bin/python3.9 /github/workspace/python3.9  
+      - name: Install dependencies
         uses: VaultVulp/action-pipenv@v2.0.1
         with:
-          command: install -d
+          command: install -d 
       - name: Python build
         # env:
         #   _file_changes: ${{ steps.file_changes.outputs.files }}
