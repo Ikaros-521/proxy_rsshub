@@ -34,13 +34,13 @@ jobs:
         run: | 
           python3.9 -m pip install pipenv
       - name: Install dependencies
-        uses: VaultVulp/action-pipenv@v2.0.1
+        uses: VaultVulp/pipenv-ubuntu@latest
         with:
           command: install -d 
       - name: Python build
         # env:
         #   _file_changes: ${{ steps.file_changes.outputs.files }}
-        uses: VaultVulp/action-pipenv@v2.0.1
+        uses: VaultVulp/pipenv-ubuntu@latest
         with:
           command: run build
       - name: Commit files
